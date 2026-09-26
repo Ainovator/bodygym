@@ -65,9 +65,11 @@ export function PageHeader({
 export function ExerciseImage({
   exercise,
   large = false,
+  loading = large ? 'eager' : 'lazy',
 }: {
   exercise: Exercise
   large?: boolean
+  loading?: 'eager' | 'lazy'
 }) {
   const src = exercise.media.find((m) => m.type === 'image')?.url ?? '/illustrations/push.svg'
   const anatomical = src.startsWith('/illustrations/anatomy/')
@@ -76,7 +78,7 @@ export function ExerciseImage({
       className={`exercise-image${large ? ' large' : ''}${anatomical ? ' anatomy' : ''}`}
       src={src}
       alt={`Иллюстрация: ${exercise.name}`}
-      loading={large ? 'eager' : 'lazy'}
+      loading={loading}
       decoding="async"
     />
   )

@@ -1,10 +1,13 @@
 import { Clock3, Dumbbell, Info } from 'lucide-react'
-import { Link, useParams } from 'react-router-dom'
+import { Link, useLocation, useParams } from 'react-router-dom'
 import { useExercises, usePrevious } from '../hooks/queries'
 import { dateLabel, number } from '../lib/format'
 import { Empty, ErrorState, ExerciseImage, Loading, PageHeader } from '../components/UI'
 export function ExerciseDetail() {
   const { id = '' } = useParams()
+  const location = useLocation()
+  const backTo = typeof location.state?.backTo === 'string' && location.state.backTo.startsWith('/catalog/')
+    ? location.state.backTo : '/'
   const query = useExercises()
   const previous = usePrevious(id)
   const exercise = query.data?.find((e) => e.id === id)
@@ -15,7 +18,7 @@ export function ExerciseDetail() {
   return (
     <>
       <PageHeader
-        back="/"
+        back={backTo}
         eyebrow={`${exercise.category} · ${exercise.equipment}`}
         title={exercise.name}
       />
@@ -24,10 +27,8 @@ export function ExerciseDetail() {
           <section className="card exercise-visual">
             <ExerciseImage exercise={exercise} large />
             <span>
-              {exercise.media.some((media) =>
-                media.url.endsWith('/anatomy/barbell-bench-press-v1.webp'),
-              )
-                ? 'Грудные мышцы выделены красным'
+              {exercise.media.some(media => media.type === 'image' && media.url.startsWith('/illustrations/anatomy/'))
+                ? 'Основные работающие мышцы выделены красным'
                 : 'Схематичная иллюстрация · не инструкция движения'}
             </span>
           </section>

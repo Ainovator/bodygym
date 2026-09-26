@@ -1,15 +1,16 @@
-import { lazy, Suspense, useState } from 'react'
+import { lazy, Suspense, useEffect, useState } from 'react'
 import {
   Activity,
   BarChart3,
   BookOpen,
   Dumbbell,
   History as HistoryIcon,
+  LayoutGrid,
   Moon,
   Sun,
   WifiOff,
 } from 'lucide-react'
-import { Link, NavLink, Route, Routes } from 'react-router-dom'
+import { Link, Navigate, NavLink, Route, Routes, useLocation } from 'react-router-dom'
 import { Today } from './pages/Today'
 import { Programs, TemplateEditor } from './pages/Programs'
 import { ExerciseDetail } from './pages/ExerciseDetail'
@@ -18,6 +19,8 @@ import { History } from './pages/History'
 import { useSyncState, retrySync } from './lib/offline'
 import { ErrorBoundary, Loading } from './components/UI'
 const Progress = lazy(() => import('./pages/Progress'))
+const Catalog = lazy(() => import('./pages/Catalog'))
+const MachineDetail = lazy(() => import('./pages/Catalog').then(module => ({ default: module.MachineDetail })))
 const themeStorageKey = 'feetwork-theme-copper-v1'
 function applyTheme(dark: boolean) {
   document.documentElement.dataset.theme = dark ? 'dark' : 'light'
@@ -26,10 +29,13 @@ function applyTheme(dark: boolean) {
 const tabs = [
   { to: '/', label: 'Сегодня', Icon: Activity },
   { to: '/programs', label: 'Программы', Icon: BookOpen },
+  { to: '/catalog', label: 'Каталог', Icon: LayoutGrid },
   { to: '/history', label: 'История', Icon: HistoryIcon },
   { to: '/progress', label: 'Прогресс', Icon: BarChart3 },
 ]
 export function App() {
+  const { pathname } = useLocation()
+  useEffect(() => { window.scrollTo(0, 0) }, [pathname])
   const [dark, setDark] = useState(() => {
     const isDark = localStorage.getItem(themeStorageKey) !== 'light'
     applyTheme(isDark)
@@ -127,6 +133,10 @@ export function App() {
                 <Route path="/programs" element={<Programs />} />
                 <Route path="/programs/new" element={<TemplateEditor />} />
                 <Route path="/programs/:id/edit" element={<TemplateEditor />} />
+                <Route path="/catalog" element={<Navigate to="/catalog/exercises" replace />} />
+                <Route path="/catalog/exercises" element={<Catalog key="exercises" kind="exercises" />} />
+                <Route path="/catalog/machines" element={<Catalog key="machines" kind="machines" />} />
+                <Route path="/catalog/machines/:slug" element={<MachineDetail />} />
                 <Route path="/exercises/:id" element={<ExerciseDetail />} />
                 <Route path="/workouts/:id" element={<Workout />} />
                 <Route path="/history" element={<History />} />
