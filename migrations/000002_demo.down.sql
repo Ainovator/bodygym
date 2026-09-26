@@ -1,0 +1,2 @@
+DELETE FROM users WHERE id='11111111-1111-4111-8111-111111111111';
+DELETE FROM exercises WHERE slug IN ('barbell-bench-press','incline-dumbbell-press','cable-fly','lat-pulldown','chest-supported-row','seated-cable-row','seated-dumbbell-press','lateral-raise','reverse-pec-deck','dumbbell-curl','hammer-curl','triceps-pushdown','overhead-triceps-extension','leg-press','leg-extension','goblet-squat','leg-curl','romanian-deadlift','hip-thrust','step-up','standing-calf-raise','seated-calf-raise','cable-crunch','reverse-crunch');
