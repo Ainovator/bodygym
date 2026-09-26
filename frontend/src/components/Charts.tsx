@@ -15,7 +15,7 @@ export function Chart({
   data,
   unit,
   bars = false,
-  color = 'var(--accent)',
+  color = 'var(--chart-accent)',
   height = 190,
 }: {
   data: Point[]

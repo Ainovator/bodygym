@@ -36,7 +36,7 @@ for (const size of [192, 512]) {
         ([sx, sy, w, h]) => rx >= sx && rx <= sx + w && ry >= sy && ry <= sy + h,
       )
       const at = y * (size * 4 + 1) + 1 + x * 4
-      const color = inside ? [220, 234, 178] : [32, 75, 58]
+      const color = inside ? [224, 170, 134] : [20, 18, 16]
       pixels.set([...color, 255], at)
     }
   const header = Buffer.alloc(13)

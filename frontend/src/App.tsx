@@ -18,6 +18,11 @@ import { History } from './pages/History'
 import { useSyncState, retrySync } from './lib/offline'
 import { ErrorBoundary, Loading } from './components/UI'
 const Progress = lazy(() => import('./pages/Progress'))
+const themeStorageKey = 'feetwork-theme-copper-v1'
+function applyTheme(dark: boolean) {
+  document.documentElement.dataset.theme = dark ? 'dark' : 'light'
+  document.querySelector('meta[name="theme-color"]')?.setAttribute('content', dark ? '#141210' : '#f5f1ed')
+}
 const tabs = [
   { to: '/', label: 'Сегодня', Icon: Activity },
   { to: '/programs', label: 'Программы', Icon: BookOpen },
@@ -26,9 +31,8 @@ const tabs = [
 ]
 export function App() {
   const [dark, setDark] = useState(() => {
-    const value = localStorage.getItem('feetwork-theme')
-    const isDark = value ? value === 'dark' : matchMedia('(prefers-color-scheme: dark)').matches
-    document.documentElement.dataset.theme = isDark ? 'dark' : 'light'
+    const isDark = localStorage.getItem(themeStorageKey) !== 'light'
+    applyTheme(isDark)
     return isDark
   })
   const sync = useSyncState()
@@ -37,8 +41,8 @@ export function App() {
   function toggleTheme() {
     const next = !dark
     setDark(next)
-    document.documentElement.dataset.theme = next ? 'dark' : 'light'
-    localStorage.setItem('feetwork-theme', next ? 'dark' : 'light')
+    applyTheme(next)
+    localStorage.setItem(themeStorageKey, next ? 'dark' : 'light')
   }
   return (
     <ErrorBoundary>
