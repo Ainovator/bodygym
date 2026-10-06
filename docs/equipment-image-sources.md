@@ -1,33 +1,31 @@
-# Источники фотографий тренажёров
+# Источники изображений тренажёров
 
-Официальные изображения конкретных моделей из каталога Life Fitness / Hammer Strength. Получены 27 сентября 2026. Изображения не генерировались; сохранены локально в WebP с уменьшением размера без кадрирования. Права на исходные изображения принадлежат производителям; отдельная открытая лицензия источником не указана.
+Каталог содержит 236 конкретных моделей 6 брендов. Это пополняемый справочник, не полный перечень всех тренажёров мира. Включены силовые тренажёры, кардио, скамьи, стойки и станция для растяжки. Повторы по цвету, грузовому стеку и отдельным складским экземплярам исключены.
 
-- **Hammer Strength Select Lat Pulldown** — [страница модели](https://shop.lifefitness.com/products/hammer-strength-select-lat-pulldown) · [исходное изображение](https://cdn.shopify.com/s/files/1/0538/8307/6805/files/outlet-hammer-strength-select-lat-pulldown-charcoal-black-1000x1000.jpg?v=1748945131)
-  Файл: `frontend/public/equipment/hammer-strength-select-lat-pulldown-v1.webp`
+- Concept2: 3 модели.
+- Hammer Strength: 95 моделей.
+- ICG: 4 модели.
+- Life Fitness: 99 моделей.
+- Matrix: 31 модель.
+- SCIFIT: 4 модели.
 
-- **Insignia Series Row** — [страница модели](https://shop.lifefitness.com/products/insignia-series-row) · [исходное изображение](https://cdn.shopify.com/s/files/1/0538/8307/6805/files/LFInsignia-Row-charcoal-black.jpg?v=1759863395)
-  Файл: `frontend/public/equipment/insignia-series-row-v1.webp`
+Изображения взяты из официальных каталогов [Life Fitness / Hammer Strength](https://shop.lifefitness.com), [Matrix CPO](https://cpo.matrixfitness.com) и [Concept2](https://www.concept2.com). Каталог Life Fitness также представляет ICG и SCIFIT. Matrix CPO содержит фотографии складских экземпляров и заводские визуализации моделей; цвет обивки или рамы на изображении может отличаться от комплектации в продаже. Генерация изображений не использовалась.
 
-- **Insignia Series Pectoral Fly/Rear Deltoid** — [страница модели](https://shop.lifefitness.com/products/insignia-series-pectoral-fly-rear-deltoid) · [исходное изображение](https://cdn.shopify.com/s/files/1/0538/8307/6805/files/LFInsignia-DualFly-charcoal-black.jpg?v=1759853180)
-  Файл: `frontend/public/equipment/insignia-series-pectoral-fly-rear-deltoid-v1.webp`
+Права на исходные изображения принадлежат их правообладателям; открытая лицензия источниками не заявлена. Локальные копии уменьшены до 900 px по большей стороне и сохранены в WebP без кадрирования. В интерфейсе используется подпись «изображение производителя».
 
-- **Insignia Series Arc Leg Press** — [страница модели](https://shop.lifefitness.com/products/insignia-series-leg-press) · [исходное изображение](https://cdn.shopify.com/s/files/1/0538/8307/6805/files/insignia-series-leg-press-charcoal-black.jpg?v=1758728429)
-  Файл: `frontend/public/equipment/insignia-series-leg-press-v1.webp`
+Точные страницы, оригинальные URL изображений, даты получения, размеры, SHA-256 локальных файлов и официальные названия хранятся в [equipment-sources.json](./equipment-sources.json). Последнее расширение: 6 октября 2026.
 
-- **Insignia Series Leg Extension** — [страница модели](https://shop.lifefitness.com/products/insignia-series-leg-extension) · [исходное изображение](https://cdn.shopify.com/s/files/1/0538/8307/6805/files/Insignia-Series-leg-extension-charcoal-black_77ff568d-7817-49fb-b0f6-eca097b2c89a.jpg?v=1758725194)
-  Файл: `frontend/public/equipment/insignia-series-leg-extension-v1.webp`
+Русские названия, описания движений и группы мышц — редакционные пояснения, не спецификации производителя. Цены, наличие, доступность в конкретной стране и рейтинги популярности не заявляются. Для многофункциональных станций работающие мышцы определяются упражнением.
 
-- **Insignia Series Leg Curl** — [страница модели](https://shop.lifefitness.com/products/insignia-series-leg-curl) · [исходное изображение](https://cdn.shopify.com/s/files/1/0538/8307/6805/files/insignia-series-leg-curl-charcoal-black.jpg?v=1758729407)
-  Файл: `frontend/public/equipment/insignia-series-leg-curl-v1.webp`
+## Как добавлять модели
 
-- **Insignia Series Shoulder Press** — [страница модели](https://shop.lifefitness.com/products/insignia-series-shoulder-press) · [исходное изображение](https://cdn.shopify.com/s/files/1/0538/8307/6805/files/LFInsignia-ShoulderPress-charcoal-black.jpg?v=1759863820)
-  Файл: `frontend/public/equipment/insignia-series-shoulder-press-v1.webp`
+1. Найти страницу конкретной модели у производителя и изображение той же конструкции. Проверить визуально: в товарных выгрузках встречаются ошибочные фото.
+2. Добавить запись в frontend/src/data/machines.json. Сохранить существующие id: они используются в адресах карточек. Разные цвета и складские экземпляры не создают новые модели.
+3. Сохранить оптимизированный WebP в frontend/public/equipment и добавить происхождение в equipment-sources.json. Для замены уже опубликованного фото увеличить версию имени файла.
+4. Проверить название, модель, категорию, группы мышц, описание конструкции и связанные упражнения. Не добавлять упражнение лишь по похожему названию.
+5. Выполнить npm test и npm run build в frontend, затем браузерные проверки catalog. Фотографии включаются в локальный кеш приложения при успешной установке service worker.
 
-- **Insignia Series Chest Press** — [страница модели](https://shop.lifefitness.com/products/insignia-series-chest-press) · [исходное изображение](https://cdn.shopify.com/s/files/1/0538/8307/6805/files/LFInsignia-ChestPress-charcoal-black.jpg?v=1759784082)
-  Файл: `frontend/public/equipment/insignia-series-chest-press-v1.webp`
+## Проверенные исключения
 
-- **Insignia Series Assist Dip Chin** — [страница модели](https://shop.lifefitness.com/products/insignia-series-assist-dip-chin) · [исходное изображение](https://cdn.shopify.com/s/files/1/0538/8307/6805/files/LFInsignia-AssistDipChin-charcoal-black.jpg?v=1759781537)
-  Файл: `frontend/public/equipment/insignia-series-assist-dip-chin-v1.webp`
-
-- **Life Fitness Adjustable Cable Crossover** — [страница модели](https://shop.lifefitness.com/products/life-fitness-adjustable-cable-crossover) · [исходное изображение](https://cdn.shopify.com/s/files/1/0538/8307/6805/files/life-fitness-cable-crossover-1000x1000.jpg?v=1748945057)
-  Файл: `frontend/public/equipment/life-fitness-adjustable-cable-crossover-v1.webp`
+- Insignia Hip Abduction / Adduction не включён: в выгрузке использовано фото отдельного Hip Adduction.
+- Для Axiom Leg Curl фото из магазина не соответствовало лежачей конструкции; использовано изображение с [официального австралийского сайта](https://www.lifefitness.com.au/commercial/axiom-series-leg-curl).

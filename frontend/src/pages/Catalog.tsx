@@ -1,11 +1,12 @@
-import { ArrowRight, Dumbbell, ExternalLink, Search, X } from 'lucide-react'
+import { ArrowLeft, ArrowRight, Dumbbell, ExternalLink, Search, X } from 'lucide-react'
 import { Link, NavLink, useLocation, useParams, useSearchParams } from 'react-router-dom'
-import { useState } from 'react'
+import { useRef, useState } from 'react'
 import { Empty, ErrorState, ExerciseImage, Loading, PageHeader } from '../components/UI'
-import { machines } from '../data/machines'
+import { machineBrands, machineCategories, machineGroups, machines } from '../data/machines'
 import { useExercises } from '../hooks/queries'
 
 const normalize = (value: string) => value.toLocaleLowerCase('ru-RU').replace(/ё/g, 'е').trim()
+const PAGE_SIZE = 24
 
 function MachinePhoto({ src, label }: { src: string; label: string }) {
   const [failed, setFailed] = useState(false)
@@ -28,10 +29,13 @@ export default function Catalog({ kind }: { kind: 'exercises' | 'machines' }) {
   const [params, setParams] = useSearchParams()
   const search = params.get('q') ?? ''
   const group = params.get('group') ?? ''
+  const brand = params.get('brand') ?? ''
+  const category = params.get('category') ?? ''
+  const toolbar = useRef<HTMLDivElement>(null)
   const isMachines = kind === 'machines'
   const exercises = query.data ?? []
   const groups = isMachines
-    ? ['Грудь', 'Спина', 'Плечи', 'Руки', 'Ноги', 'Корпус']
+    ? machineGroups
     : [...new Set(exercises.map(e => e.category))].sort((a, b) => a.localeCompare(b, 'ru'))
   const terms = normalize(search).split(/\s+/).filter(Boolean)
   const matches = (text: string) => terms.every(term => normalize(text).includes(term))
@@ -39,16 +43,31 @@ export default function Catalog({ kind }: { kind: 'exercises' | 'machines' }) {
     (!group || e.category === group) && matches([e.name, e.equipment, ...e.primary_muscles, ...e.secondary_muscles].join(' ')),
   )
   const filteredMachines = machines.filter(m =>
-    (!group || m.groups.includes(group)) && matches([m.name, m.brand, m.model, ...m.muscles, ...m.groups].join(' ')),
+    (!group || m.groups.includes(group)) && (!brand || m.brand === brand) && (!category || m.category === category)
+      && matches([m.name, m.brand, m.model, m.category, ...m.muscles, ...m.groups].join(' ')),
   )
   const count = isMachines ? filteredMachines.length : filteredExercises.length
   const total = isMachines ? machines.length : exercises.length
+  const pageCount = Math.max(1, Math.ceil(filteredMachines.length / PAGE_SIZE))
+  const requestedPage = Number(params.get('page') ?? 1)
+  const page = Number.isSafeInteger(requestedPage) ? Math.min(pageCount, Math.max(1, requestedPage)) : 1
+  const first = (page - 1) * PAGE_SIZE
+  const visibleMachines = filteredMachines.slice(first, first + PAGE_SIZE)
   const backTo = `/catalog/${kind}${params.size ? `?${params}` : ''}`
   function filter(key: string, value: string) {
     const next = new URLSearchParams(params)
+    next.delete('page')
     if (value) next.set(key, value)
     else next.delete(key)
     setParams(next, { replace: true })
+  }
+  function changePage(value: number) {
+    const next = new URLSearchParams(params)
+    if (value > 1) next.set('page', String(value))
+    else next.delete('page')
+    setParams(next)
+    toolbar.current?.focus({ preventScroll: true })
+    toolbar.current?.scrollIntoView({ block: 'start' })
   }
 
   return (
@@ -62,16 +81,32 @@ export default function Catalog({ kind }: { kind: 'exercises' | 'machines' }) {
       </nav>
       <p className="catalog-intro">
         {isMachines
-          ? 'Популярные типы тренажёров на примере конкретных моделей. Узнайте оборудование по фото и посмотрите, для каких движений оно подходит.'
+          ? `Реальные модели ${machineBrands.length} брендов: силовые, кардио, скамьи и стойки. Узнайте оборудование по фото производителя. Справочник пополняется и не охватывает все выпускаемые модели.`
           : 'Найдите упражнение, посмотрите работающие мышцы и откройте технику выполнения.'}
       </p>
-      <div className="catalog-toolbar">
+      <div className={`catalog-toolbar${isMachines ? ' catalog-toolbar-machines' : ''}`} ref={toolbar} tabIndex={-1}>
         <label className="catalog-search">
           <Search size={19} aria-hidden="true" />
           <input aria-label={isMachines ? 'Поиск тренажёров' : 'Поиск упражнений'} type="search"
             placeholder={isMachines ? 'Название, модель или мышца…' : 'Упражнение, мышца или оборудование…'}
             value={search} onChange={e => filter('q', e.target.value)} />
         </label>
+        {isMachines && <>
+          <label className="catalog-group">
+            <span className="sr-only">Производитель</span>
+            <select value={brand} onChange={e => filter('brand', e.target.value)}>
+              <option value="">Все производители</option>
+              {machineBrands.map(b => <option key={b} value={b}>{b}</option>)}
+            </select>
+          </label>
+          <label className="catalog-group">
+            <span className="sr-only">Вид оборудования</span>
+            <select value={category} onChange={e => filter('category', e.target.value)}>
+              <option value="">Все виды оборудования</option>
+              {machineCategories.map(c => <option key={c} value={c}>{c}</option>)}
+            </select>
+          </label>
+        </>}
         <label className="catalog-group">
           <span className="sr-only">Группа мышц</span>
           <select value={group} onChange={e => filter('group', e.target.value)}>
@@ -81,8 +116,8 @@ export default function Catalog({ kind }: { kind: 'exercises' | 'machines' }) {
         </label>
       </div>
       <div className="catalog-results">
-        <span className="muted" role="status">Показано {count} из {total}</span>
-        {(search || group) && <button className="text-link" onClick={() => setParams({}, { replace: true })}><X size={14} /> Сбросить</button>}
+        <span className="muted" role="status">{isMachines ? `Найдено ${count} из ${total}${count ? ` · Показаны ${first + 1}–${first + visibleMachines.length}` : ''}` : `Показано ${count} из ${total}`}</span>
+        {(search || group || (isMachines && (brand || category))) && <button className="text-link" onClick={() => setParams({}, { replace: true })}><X size={14} /> Сбросить</button>}
       </div>
       {!isMachines && query.isPending ? <Loading /> : !isMachines && query.isError && !query.data ? (
         <ErrorState error={query.error} retry={() => void query.refetch()} />
@@ -90,11 +125,11 @@ export default function Catalog({ kind }: { kind: 'exercises' | 'machines' }) {
         <Empty title="Ничего не найдено"><p>Попробуйте другое название или сбросьте фильтры.</p></Empty>
       ) : (
         <div className="catalog-grid">
-          {isMachines ? filteredMachines.map(machine => (
+          {isMachines ? visibleMachines.map(machine => (
             <Link className="card catalog-card" key={machine.id} to={`/catalog/machines/${machine.id}`} state={{ backTo }}>
               <MachinePhoto src={machine.image} label={`${machine.brand} ${machine.model}`} />
               <div className="catalog-card-copy">
-                <span className="catalog-overline">{machine.brand}</span>
+                <span className="catalog-overline">{machine.brand} · {machine.category}</span>
                 <h2>{machine.name}</h2>
                 <p className="catalog-model">{machine.model}</p>
                 <div className="catalog-muscles">{machine.groups.map(g => <span key={g}>{g}</span>)}</div>
@@ -114,7 +149,12 @@ export default function Catalog({ kind }: { kind: 'exercises' | 'machines' }) {
           ))}
         </div>
       )}
-      {isMachines && <p className="catalog-credit">Изображения моделей — Life Fitness / Hammer Strength. Источник указан в карточке каждого тренажёра.</p>}
+      {isMachines && pageCount > 1 && <nav className="catalog-pagination" aria-label="Страницы каталога">
+        <button className="button secondary" disabled={page === 1} onClick={() => changePage(page - 1)}><ArrowLeft size={16} /> Назад</button>
+        <span aria-live="polite">{page} / {pageCount}</span>
+        <button className="button secondary" disabled={page === pageCount} onClick={() => changePage(page + 1)}>Далее <ArrowRight size={16} /></button>
+      </nav>}
+      {isMachines && <p className="catalog-credit">Фото и визуализации реальных моделей — с официальных сайтов производителей. Источник указан в каждой карточке. Цвет и комплектация могут отличаться от оборудования в вашем зале.</p>}
     </>
   )
 }
@@ -138,7 +178,7 @@ export function MachineDetail() {
             <div className="machine-photo-credit"><span>Изображение производителя</span><a href={machine.sourceUrl} target="_blank" rel="noreferrer">Источник <ExternalLink size={13} /></a></div>
           </section>
           <section className="card muscle-card">
-            <h2>Мышцы в работе</h2>
+            <h2>{machine.category === 'Растяжка' ? 'Группы для растяжки' : 'Основные группы мышц'}</h2>
             <div className="muscle-tags">{machine.muscles.map(m => <span key={m}>{m}</span>)}</div>
           </section>
         </div>
@@ -148,6 +188,7 @@ export function MachineDetail() {
           <section className="card machine-recognition">
             <h2>Модель на фото</h2>
             <p>{machine.brand} {machine.model}</p>
+            <p className="catalog-overline">{machine.category}</p>
             <p className="muted">Расположение регулировок и траектория движения зависят от модели. Схема на корпусе поможет настроить именно ваш тренажёр.</p>
             <a className="text-link" href={machine.sourceUrl} target="_blank" rel="noreferrer">Страница производителя <ExternalLink size={15} /></a>
           </section>

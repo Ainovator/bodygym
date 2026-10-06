@@ -1,0 +1,4789 @@
+[
+  {
+    "name": "Верхний блок",
+    "groups": [
+      "Спина"
+    ],
+    "muscles": [
+      "Широчайшие",
+      "Бицепс"
+    ],
+    "description": "Вертикальная тяга сидя с грузовым стеком и широкой рукоятью.",
+    "recognition": "Узнаётся по верхнему блоку, длинному грифу и валикам для фиксации бёдер.",
+    "category": "Силовые",
+    "id": "hammer-strength-select-lat-pulldown",
+    "brand": "Hammer Strength",
+    "model": "Select Lat Pulldown",
+    "exerciseSlugs": [
+      "lat-pulldown"
+    ],
+    "image": "/equipment/hammer-strength-select-lat-pulldown-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-select-lat-pulldown"
+  },
+  {
+    "name": "Горизонтальная тяга",
+    "groups": [
+      "Спина"
+    ],
+    "muscles": [
+      "Широчайшие",
+      "Ромбовидные"
+    ],
+    "description": "Рычажная тяга сидя с опорой грудью и независимым движением рукоятей.",
+    "recognition": "Перед сиденьем находится грудная опора; рукояти расположены по обе стороны от неё.",
+    "category": "Силовые",
+    "id": "insignia-series-row",
+    "brand": "Life Fitness",
+    "model": "Insignia Series Row",
+    "exerciseSlugs": [],
+    "image": "/equipment/insignia-series-row-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/insignia-series-row"
+  },
+  {
+    "name": "Бабочка / задняя дельта",
+    "groups": [
+      "Грудь",
+      "Плечи"
+    ],
+    "muscles": [
+      "Грудные мышцы",
+      "Задняя дельта"
+    ],
+    "description": "Два движения в одном тренажёре: сведение рук перед собой и обратное разведение.",
+    "recognition": "Высокая вертикальная опора и два длинных поворотных рычага на уровне плеч.",
+    "category": "Силовые",
+    "id": "insignia-series-pectoral-fly-rear-deltoid",
+    "brand": "Life Fitness",
+    "model": "Insignia Series Pectoral Fly/Rear Deltoid",
+    "exerciseSlugs": [
+      "reverse-pec-deck"
+    ],
+    "image": "/equipment/insignia-series-pectoral-fly-rear-deltoid-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/insignia-series-pectoral-fly-rear-deltoid"
+  },
+  {
+    "name": "Жим ногами",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Квадрицепс",
+      "Ягодичные"
+    ],
+    "description": "Грузоблочный жим ногами с движением по дуге. Модель Arc отличается от наклонных саней.",
+    "recognition": "Большая платформа для стоп напротив сиденья и регулируемая опора спины.",
+    "category": "Силовые",
+    "id": "insignia-series-leg-press",
+    "brand": "Life Fitness",
+    "model": "Insignia Series Arc Leg Press",
+    "exerciseSlugs": [
+      "leg-press"
+    ],
+    "image": "/equipment/insignia-series-leg-press-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/insignia-series-leg-press"
+  },
+  {
+    "name": "Разгибание ног",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Квадрицепс"
+    ],
+    "description": "Тренажёр для разгибания коленей сидя с валиком перед голенями.",
+    "recognition": "Сиденье со спинкой, боковые рукояти и низкий валик на подвижном рычаге.",
+    "category": "Силовые",
+    "id": "insignia-series-leg-extension",
+    "brand": "Life Fitness",
+    "model": "Insignia Series Leg Extension",
+    "exerciseSlugs": [
+      "leg-extension"
+    ],
+    "image": "/equipment/insignia-series-leg-extension-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/insignia-series-leg-extension"
+  },
+  {
+    "name": "Сгибание ног лёжа",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Задняя поверхность бедра"
+    ],
+    "description": "Сгибание коленей лёжа на животе с сопротивлением грузового стека.",
+    "recognition": "Длинная наклонная подушка для корпуса и валик у ножного конца скамьи.",
+    "category": "Силовые",
+    "id": "insignia-series-leg-curl",
+    "brand": "Life Fitness",
+    "model": "Insignia Series Leg Curl",
+    "exerciseSlugs": [
+      "leg-curl"
+    ],
+    "image": "/equipment/insignia-series-leg-curl-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/insignia-series-leg-curl"
+  },
+  {
+    "name": "Жим от плеч",
+    "groups": [
+      "Плечи"
+    ],
+    "muscles": [
+      "Дельтовидные",
+      "Трицепс"
+    ],
+    "description": "Вертикальный жим сидя с опорой спины и рычажными рукоятями.",
+    "recognition": "Вертикальная спинка и рукояти над сиденьем, направленные вверх.",
+    "category": "Силовые",
+    "id": "insignia-series-shoulder-press",
+    "brand": "Life Fitness",
+    "model": "Insignia Series Shoulder Press",
+    "exerciseSlugs": [],
+    "image": "/equipment/insignia-series-shoulder-press-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/insignia-series-shoulder-press"
+  },
+  {
+    "name": "Жим от груди",
+    "groups": [
+      "Грудь"
+    ],
+    "muscles": [
+      "Грудные мышцы",
+      "Трицепс"
+    ],
+    "description": "Жим сидя с независимыми рычагами, которые сходятся перед корпусом.",
+    "recognition": "Сиденье со спинкой и две рукояти перед грудью; движение направлено вперёд.",
+    "category": "Силовые",
+    "id": "insignia-series-chest-press",
+    "brand": "Life Fitness",
+    "model": "Insignia Series Chest Press",
+    "exerciseSlugs": [],
+    "image": "/equipment/insignia-series-chest-press-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/insignia-series-chest-press"
+  },
+  {
+    "name": "Гравитрон",
+    "groups": [
+      "Спина",
+      "Грудь",
+      "Руки"
+    ],
+    "muscles": [
+      "Широчайшие",
+      "Грудные мышцы",
+      "Трицепс"
+    ],
+    "description": "Подтягивания и отжимания на брусьях с противовесом, который помогает движению.",
+    "recognition": "Высокая рама с перекладиной, брусьями и подвижной опорой для коленей.",
+    "category": "Силовые",
+    "id": "insignia-series-assist-dip-chin",
+    "brand": "Life Fitness",
+    "model": "Insignia Series Assist Dip Chin",
+    "exerciseSlugs": [],
+    "image": "/equipment/insignia-series-assist-dip-chin-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/insignia-series-assist-dip-chin"
+  },
+  {
+    "name": "Кроссовер",
+    "groups": [
+      "Грудь",
+      "Руки",
+      "Корпус"
+    ],
+    "muscles": [
+      "Грудные мышцы",
+      "Трицепс",
+      "Пресс"
+    ],
+    "description": "Две регулируемые блочные стойки для упражнений с тросовым сопротивлением.",
+    "recognition": "Два грузовых стека соединены верхней перекладиной; высота каждого блока регулируется.",
+    "category": "Силовые",
+    "id": "life-fitness-adjustable-cable-crossover",
+    "brand": "Life Fitness",
+    "model": "Adjustable Cable Crossover",
+    "exerciseSlugs": [
+      "cable-fly",
+      "triceps-pushdown",
+      "overhead-triceps-extension",
+      "cable-crunch"
+    ],
+    "image": "/equipment/life-fitness-adjustable-cable-crossover-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/life-fitness-adjustable-cable-crossover"
+  },
+  {
+    "name": "Бабочка",
+    "groups": [
+      "Грудь"
+    ],
+    "muscles": [
+      "Грудные мышцы"
+    ],
+    "description": "Сведение рук перед собой на тренажёре для грудных мышц.",
+    "recognition": "Парные поворотные рычаги по сторонам сиденья.",
+    "category": "Силовые",
+    "id": "hammer-strength-plate-loaded-super-fly",
+    "brand": "Hammer Strength",
+    "model": "Plate Loaded Super Fly",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-plate-loaded-super-fly-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-plate-loaded-super-fly"
+  },
+  {
+    "name": "Бабочка",
+    "groups": [
+      "Грудь"
+    ],
+    "muscles": [
+      "Грудные мышцы"
+    ],
+    "description": "Сведение рук перед собой на тренажёре для грудных мышц.",
+    "recognition": "Парные поворотные рычаги по сторонам сиденья.",
+    "category": "Силовые",
+    "id": "hammer-strength-select-pectoral-fly",
+    "brand": "Hammer Strength",
+    "model": "Select Pectoral Fly",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-select-pectoral-fly-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-select-pectoral-fly"
+  },
+  {
+    "name": "Бабочка / задняя дельта",
+    "groups": [
+      "Грудь",
+      "Плечи"
+    ],
+    "muscles": [
+      "Грудные мышцы",
+      "Задняя дельта"
+    ],
+    "description": "Тренажёр для сведения рук и обратного разведения; движение выбирается настройкой рычагов.",
+    "recognition": "Высокая вертикальная опора и два поворотных рычага на уровне плеч.",
+    "category": "Силовые",
+    "id": "hammer-strength-select-pectoral-fly-rear-deltoid",
+    "brand": "Hammer Strength",
+    "model": "Select Pectoral Fly / Rear Deltoid",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-select-pectoral-fly-rear-deltoid-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-select-pectoral-fly-rear-deltoid"
+  },
+  {
+    "name": "Бабочка / задняя дельта",
+    "groups": [
+      "Грудь",
+      "Плечи"
+    ],
+    "muscles": [
+      "Грудные мышцы",
+      "Задняя дельта"
+    ],
+    "description": "Тренажёр для сведения рук и обратного разведения; движение выбирается настройкой рычагов.",
+    "recognition": "Высокая вертикальная опора и два поворотных рычага на уровне плеч.",
+    "category": "Силовые",
+    "id": "axiom-series-pectoral-fly-rear-deltoid",
+    "brand": "Life Fitness",
+    "model": "Axiom Series Pectoral Fly / Rear Deltoid",
+    "exerciseSlugs": [],
+    "image": "/equipment/axiom-series-pectoral-fly-rear-deltoid-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/axiom-series-pectoral-fly-rear-deltoid"
+  },
+  {
+    "name": "Бабочка / задняя дельта",
+    "groups": [
+      "Грудь",
+      "Плечи"
+    ],
+    "muscles": [
+      "Грудные мышцы",
+      "Задняя дельта"
+    ],
+    "description": "Тренажёр для сведения рук и обратного разведения; движение выбирается настройкой рычагов.",
+    "recognition": "Высокая вертикальная опора и два поворотных рычага на уровне плеч.",
+    "category": "Силовые",
+    "id": "matrix-g3-s22-03",
+    "brand": "Matrix",
+    "model": "Aura Rear Delt / Fly (G3-S22-03)",
+    "exerciseSlugs": [],
+    "image": "/equipment/matrix-g3-s22-03-v1.webp",
+    "sourceUrl": "https://cpo.matrixfitness.com/products/strength/aura/aura-rear-delt-fly-lace-white-black-pads-refurbished-2/"
+  },
+  {
+    "name": "Бицепс / трицепс",
+    "groups": [
+      "Руки"
+    ],
+    "muscles": [
+      "Бицепс",
+      "Трицепс"
+    ],
+    "description": "Сгибание и разгибание рук на одной станции.",
+    "recognition": "Сиденье, опора для рук и рычаг, работающий в двух направлениях.",
+    "category": "Силовые",
+    "id": "axiom-series-biceps-curl-triceps-extension",
+    "brand": "Life Fitness",
+    "model": "Axiom Series Biceps Curl / Triceps Extension",
+    "exerciseSlugs": [],
+    "image": "/equipment/axiom-series-biceps-curl-triceps-extension-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/axiom-series-biceps-curl-triceps-extension"
+  },
+  {
+    "name": "Вертикальная тяга",
+    "groups": [
+      "Спина",
+      "Руки"
+    ],
+    "muscles": [
+      "Широчайшие",
+      "Бицепс"
+    ],
+    "description": "Тяга сверху к корпусу для мышц спины. Конкретная траектория задаётся тросом или рычагами модели.",
+    "recognition": "Сиденье под верхними рукоятями и опора, удерживающая бёдра.",
+    "category": "Силовые",
+    "id": "hammer-strength-mts-iso-lateral-front-pulldown",
+    "brand": "Hammer Strength",
+    "model": "MTS Iso-Lateral Front Pulldown",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-mts-iso-lateral-front-pulldown-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-mts-iso-lateral-front-pulldown"
+  },
+  {
+    "name": "Вертикальная тяга",
+    "groups": [
+      "Спина",
+      "Руки"
+    ],
+    "muscles": [
+      "Широчайшие",
+      "Бицепс"
+    ],
+    "description": "Тяга сверху к корпусу для мышц спины. Конкретная траектория задаётся тросом или рычагами модели.",
+    "recognition": "Сиденье под верхними рукоятями и опора, удерживающая бёдра.",
+    "category": "Силовые",
+    "id": "hammer-strength-plate-loaded-iso-lateral-front-lat-pulldown",
+    "brand": "Hammer Strength",
+    "model": "Plate Loaded Iso-Lateral Front Lat Pulldown",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-plate-loaded-iso-lateral-front-lat-pulldown-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-plate-loaded-iso-lateral-front-lat-pulldown"
+  },
+  {
+    "name": "Вертикальная тяга",
+    "groups": [
+      "Спина",
+      "Руки"
+    ],
+    "muscles": [
+      "Широчайшие",
+      "Бицепс"
+    ],
+    "description": "Тяга сверху к корпусу для мышц спины. Конкретная траектория задаётся тросом или рычагами модели.",
+    "recognition": "Сиденье под верхними рукоятями и опора, удерживающая бёдра.",
+    "category": "Силовые",
+    "id": "hammer-strength-plate-loaded-iso-lateral-wide-pulldown",
+    "brand": "Hammer Strength",
+    "model": "Plate Loaded Iso-Lateral Wide Pulldown",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-plate-loaded-iso-lateral-wide-pulldown-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-plate-loaded-iso-lateral-wide-pulldown"
+  },
+  {
+    "name": "Вертикальная тяга",
+    "groups": [
+      "Спина",
+      "Руки"
+    ],
+    "muscles": [
+      "Широчайшие",
+      "Бицепс"
+    ],
+    "description": "Тяга сверху к корпусу для мышц спины. Конкретная траектория задаётся тросом или рычагами модели.",
+    "recognition": "Сиденье под верхними рукоятями и опора, удерживающая бёдра.",
+    "category": "Силовые",
+    "id": "hammer-strength-select-fixed-pulldown",
+    "brand": "Hammer Strength",
+    "model": "Select Fixed Pulldown",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-select-fixed-pulldown-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-select-fixed-pulldown"
+  },
+  {
+    "name": "Вертикальная тяга",
+    "groups": [
+      "Спина",
+      "Руки"
+    ],
+    "muscles": [
+      "Широчайшие",
+      "Бицепс"
+    ],
+    "description": "Тяга сверху к корпусу для мышц спины. Конкретная траектория задаётся тросом или рычагами модели.",
+    "recognition": "Сиденье под верхними рукоятями и опора, удерживающая бёдра.",
+    "category": "Силовые",
+    "id": "axiom-series-pulldown",
+    "brand": "Life Fitness",
+    "model": "Axiom Series Lat Pulldown",
+    "exerciseSlugs": [],
+    "image": "/equipment/axiom-series-pulldown-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/axiom-series-pulldown"
+  },
+  {
+    "name": "Вертикальная тяга",
+    "groups": [
+      "Спина",
+      "Руки"
+    ],
+    "muscles": [
+      "Широчайшие",
+      "Бицепс"
+    ],
+    "description": "Тяга сверху к корпусу для мышц спины. Конкретная траектория задаётся тросом или рычагами модели.",
+    "recognition": "Сиденье под верхними рукоятями и опора, удерживающая бёдра.",
+    "category": "Силовые",
+    "id": "insignia-series-pulldown",
+    "brand": "Life Fitness",
+    "model": "Insignia Series Pulldown",
+    "exerciseSlugs": [],
+    "image": "/equipment/insignia-series-pulldown-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/insignia-series-pulldown"
+  },
+  {
+    "name": "Вертикальная тяга",
+    "groups": [
+      "Спина",
+      "Руки"
+    ],
+    "muscles": [
+      "Широчайшие",
+      "Бицепс"
+    ],
+    "description": "Тяга сверху к корпусу для мышц спины. Конкретная траектория задаётся тросом или рычагами модели.",
+    "recognition": "Сиденье под верхними рукоятями и опора, удерживающая бёдра.",
+    "category": "Силовые",
+    "id": "matrix-g7-s33b",
+    "brand": "Matrix",
+    "model": "Ultra Diverging Lat Pulldown (G7-S33B)",
+    "exerciseSlugs": [],
+    "image": "/equipment/matrix-g7-s33b-v1.webp",
+    "sourceUrl": "https://cpo.matrixfitness.com/products/strength/ultra/ultra-base-trim-light-stack-div-lat-pulldown-iced-silver-black-pads/"
+  },
+  {
+    "name": "Верхняя / горизонтальная тяга",
+    "groups": [
+      "Спина",
+      "Руки"
+    ],
+    "muscles": [
+      "Широчайшие",
+      "Ромбовидные",
+      "Бицепс"
+    ],
+    "description": "Одна станция для тяги сверху и тяги к корпусу.",
+    "recognition": "В одной раме совмещены верхние и нижние рукояти для двух направлений тяги.",
+    "category": "Силовые",
+    "id": "hammer-strength-hd-elite-dual-pulldown-row-1",
+    "brand": "Hammer Strength",
+    "model": "Dual Pulldown/Row",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-hd-elite-dual-pulldown-row-1-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-hd-elite-dual-pulldown-row-1"
+  },
+  {
+    "name": "Верхняя / горизонтальная тяга",
+    "groups": [
+      "Спина",
+      "Руки"
+    ],
+    "muscles": [
+      "Широчайшие",
+      "Ромбовидные",
+      "Бицепс"
+    ],
+    "description": "Одна станция для тяги сверху и тяги к корпусу.",
+    "recognition": "В одной раме совмещены верхние и нижние рукояти для двух направлений тяги.",
+    "category": "Силовые",
+    "id": "axiom-series-pulldown-row",
+    "brand": "Life Fitness",
+    "model": "Axiom Series Pulldown / Row",
+    "exerciseSlugs": [],
+    "image": "/equipment/axiom-series-pulldown-row-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/axiom-series-pulldown-row"
+  },
+  {
+    "name": "Вращение корпуса",
+    "groups": [
+      "Корпус"
+    ],
+    "muscles": [
+      "Косые мышцы живота"
+    ],
+    "description": "Поворот корпуса против сопротивления тренажёра.",
+    "recognition": "Поворотная опора для нижней части тела и фиксация верхней части корпуса.",
+    "category": "Силовые",
+    "id": "insignia-series-torso-rotation",
+    "brand": "Life Fitness",
+    "model": "Insignia Series Torso Rotation",
+    "exerciseSlugs": [],
+    "image": "/equipment/insignia-series-torso-rotation-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/insignia-series-torso-rotation"
+  },
+  {
+    "name": "Вращение корпуса",
+    "groups": [
+      "Корпус"
+    ],
+    "muscles": [
+      "Косые мышцы живота"
+    ],
+    "description": "Поворот корпуса против сопротивления тренажёра.",
+    "recognition": "Поворотная опора для нижней части тела и фиксация верхней части корпуса.",
+    "category": "Силовые",
+    "id": "matrix-g7-s55b",
+    "brand": "Matrix",
+    "model": "Ultra Rotary Torso (G7-S55B)",
+    "exerciseSlugs": [],
+    "image": "/equipment/matrix-g7-s55b-v1.webp",
+    "sourceUrl": "https://cpo.matrixfitness.com/products/strength/ultra/ultra-base-trim-light-stack-rotary-torso-iced-silver-black-pads/"
+  },
+  {
+    "name": "Гакк-присед",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Квадрицепс",
+      "Ягодичные мышцы"
+    ],
+    "description": "Приседание с опорой спиной на подвижную каретку.",
+    "recognition": "Наклонные направляющие, платформа для стоп и каретка с плечевыми упорами.",
+    "category": "Силовые",
+    "id": "hammer-strength-plate-loaded-hack-squat",
+    "brand": "Hammer Strength",
+    "model": "Plate Loaded Hack Squat",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-plate-loaded-hack-squat-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-plate-loaded-hack-squat"
+  },
+  {
+    "name": "Глют-хэм / обратная гиперэкстензия",
+    "groups": [
+      "Ноги",
+      "Спина"
+    ],
+    "muscles": [
+      "Ягодичные мышцы",
+      "Мышцы задней поверхности бедра",
+      "Разгибатели позвоночника"
+    ],
+    "description": "Комбинированная конструкция для глют-хэм подъёмов и обратной гиперэкстензии.",
+    "recognition": "Высокая опора для корпуса, фиксаторы ног и нижний маятниковый механизм.",
+    "category": "Силовые",
+    "id": "hammer-strength-glute-ham-reverse-hyper-combo",
+    "brand": "Hammer Strength",
+    "model": "Glute Ham Reverse Hyper Combo",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-glute-ham-reverse-hyper-combo-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-glute-ham-reverse-hyper-combo"
+  },
+  {
+    "name": "Горизонтальная тяга",
+    "groups": [
+      "Спина",
+      "Руки"
+    ],
+    "muscles": [
+      "Широчайшие",
+      "Ромбовидные",
+      "Бицепс"
+    ],
+    "description": "Тяга рукоятей к корпусу для мышц спины.",
+    "recognition": "Рукояти находятся перед сиденьем; у рычажных моделей предусмотрена опора грудью.",
+    "category": "Силовые",
+    "id": "hammer-strength-mts-iso-lateral-row-1",
+    "brand": "Hammer Strength",
+    "model": "MTS Iso-Lateral Row",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-mts-iso-lateral-row-1-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-mts-iso-lateral-row-1"
+  },
+  {
+    "name": "Горизонтальная тяга",
+    "groups": [
+      "Спина",
+      "Руки"
+    ],
+    "muscles": [
+      "Широчайшие",
+      "Ромбовидные",
+      "Бицепс"
+    ],
+    "description": "Тяга рукоятей к корпусу для мышц спины.",
+    "recognition": "Рукояти находятся перед сиденьем; у рычажных моделей предусмотрена опора грудью.",
+    "category": "Силовые",
+    "id": "hammer-strength-plate-loaded-iso-lateral-d-y-row",
+    "brand": "Hammer Strength",
+    "model": "Plate Loaded Iso-Lateral D.Y. Row",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-plate-loaded-iso-lateral-d-y-row-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-plate-loaded-iso-lateral-d-y-row"
+  },
+  {
+    "name": "Горизонтальная тяга",
+    "groups": [
+      "Спина",
+      "Руки"
+    ],
+    "muscles": [
+      "Широчайшие",
+      "Ромбовидные",
+      "Бицепс"
+    ],
+    "description": "Тяга рукоятей к корпусу для мышц спины.",
+    "recognition": "Рукояти находятся перед сиденьем; у рычажных моделей предусмотрена опора грудью.",
+    "category": "Силовые",
+    "id": "hammer-strength-plate-loaded-iso-lateral-row",
+    "brand": "Hammer Strength",
+    "model": "Plate Loaded Iso-Lateral Row",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-plate-loaded-iso-lateral-row-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-plate-loaded-iso-lateral-row"
+  },
+  {
+    "name": "Горизонтальная тяга",
+    "groups": [
+      "Спина",
+      "Руки"
+    ],
+    "muscles": [
+      "Широчайшие",
+      "Ромбовидные",
+      "Бицепс"
+    ],
+    "description": "Тяга рукоятей к корпусу для мышц спины.",
+    "recognition": "Рукояти находятся перед сиденьем; у рычажных моделей предусмотрена опора грудью.",
+    "category": "Силовые",
+    "id": "hammer-strength-select-seated-row",
+    "brand": "Hammer Strength",
+    "model": "Select Seated Row",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-select-seated-row-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-select-seated-row"
+  },
+  {
+    "name": "Горизонтальная тяга",
+    "groups": [
+      "Спина",
+      "Руки"
+    ],
+    "muscles": [
+      "Широчайшие",
+      "Ромбовидные",
+      "Бицепс"
+    ],
+    "description": "Тяга рукоятей к корпусу для мышц спины.",
+    "recognition": "Рукояти находятся перед сиденьем; у рычажных моделей предусмотрена опора грудью.",
+    "category": "Силовые",
+    "id": "axiom-series-seated-row-1",
+    "brand": "Life Fitness",
+    "model": "Axiom Series Seated Row",
+    "exerciseSlugs": [],
+    "image": "/equipment/axiom-series-seated-row-1-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/axiom-series-seated-row-1"
+  },
+  {
+    "name": "Горизонтальная тяга",
+    "groups": [
+      "Спина",
+      "Руки"
+    ],
+    "muscles": [
+      "Широчайшие",
+      "Ромбовидные",
+      "Бицепс"
+    ],
+    "description": "Тяга рукоятей к корпусу для мышц спины.",
+    "recognition": "Рукояти находятся перед сиденьем; у рычажных моделей предусмотрена опора грудью.",
+    "category": "Силовые",
+    "id": "matrix-g7-s34b",
+    "brand": "Matrix",
+    "model": "Ultra Diverging Seated Row (G7-S34B)",
+    "exerciseSlugs": [],
+    "image": "/equipment/matrix-g7-s34b-v1.webp",
+    "sourceUrl": "https://cpo.matrixfitness.com/products/strength/ultra/ultra-base-trim-light-stack-diverging-seated-row-iced-silver-black-pads/"
+  },
+  {
+    "name": "Гравитрон",
+    "groups": [
+      "Спина",
+      "Грудь",
+      "Руки"
+    ],
+    "muscles": [
+      "Широчайшие",
+      "Бицепс",
+      "Грудные мышцы",
+      "Трицепс"
+    ],
+    "description": "Подтягивания и отжимания на брусьях с противовесом, облегчающим движение.",
+    "recognition": "Высокая рама с перекладиной, брусьями и подвижной опорой для коленей или ног.",
+    "category": "Силовые",
+    "id": "hammer-strength-select-assist-dip-chin",
+    "brand": "Hammer Strength",
+    "model": "Select Assist Dip Chin",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-select-assist-dip-chin-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-select-assist-dip-chin"
+  },
+  {
+    "name": "Жим вниз сидя",
+    "groups": [
+      "Руки",
+      "Грудь"
+    ],
+    "muscles": [
+      "Трицепс",
+      "Грудные мышцы"
+    ],
+    "description": "Жим рукоятей вниз, напоминающий отжимание на брусьях.",
+    "recognition": "Рукояти расположены по бокам сиденья, приблизительно на уровне пояса.",
+    "category": "Силовые",
+    "id": "hammer-strength-plate-loaded-seated-dip",
+    "brand": "Hammer Strength",
+    "model": "Plate Loaded Seated Dip",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-plate-loaded-seated-dip-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-plate-loaded-seated-dip"
+  },
+  {
+    "name": "Жим вниз сидя",
+    "groups": [
+      "Руки",
+      "Грудь"
+    ],
+    "muscles": [
+      "Трицепс",
+      "Грудные мышцы"
+    ],
+    "description": "Жим рукоятей вниз, напоминающий отжимание на брусьях.",
+    "recognition": "Рукояти расположены по бокам сиденья, приблизительно на уровне пояса.",
+    "category": "Силовые",
+    "id": "insignia-series-triceps-press",
+    "brand": "Life Fitness",
+    "model": "Insignia Series Triceps Press",
+    "exerciseSlugs": [],
+    "image": "/equipment/insignia-series-triceps-press-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/insignia-series-triceps-press"
+  },
+  {
+    "name": "Жим вниз сидя",
+    "groups": [
+      "Руки",
+      "Грудь"
+    ],
+    "muscles": [
+      "Трицепс",
+      "Грудные мышцы"
+    ],
+    "description": "Жим рукоятей вниз, напоминающий отжимание на брусьях.",
+    "recognition": "Рукояти расположены по бокам сиденья, приблизительно на уровне пояса.",
+    "category": "Силовые",
+    "id": "matrix-g7-s42b",
+    "brand": "Matrix",
+    "model": "Ultra Triceps Press (G7-S42B)",
+    "exerciseSlugs": [],
+    "image": "/equipment/matrix-g7-s42b-v1.webp",
+    "sourceUrl": "https://cpo.matrixfitness.com/products/strength/ultra/ultra-base-trim-light-stack-triceps-press-iced-silver-black-pads/"
+  },
+  {
+    "name": "Жим ногами",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Квадрицепс",
+      "Ягодичные мышцы"
+    ],
+    "description": "Разгибание ног с упором стопами в платформу. Траектория зависит от конструкции модели.",
+    "recognition": "Крупная платформа для стоп напротив сиденья со спинкой.",
+    "category": "Силовые",
+    "id": "hammer-strength-plate-loaded-linear-leg-press",
+    "brand": "Hammer Strength",
+    "model": "Plate Loaded Linear Leg Press",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-plate-loaded-linear-leg-press-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-plate-loaded-linear-leg-press"
+  },
+  {
+    "name": "Жим ногами",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Квадрицепс",
+      "Ягодичные мышцы"
+    ],
+    "description": "Разгибание ног с упором стопами в платформу. Траектория зависит от конструкции модели.",
+    "recognition": "Крупная платформа для стоп напротив сиденья со спинкой.",
+    "category": "Силовые",
+    "id": "hammer-strength-plate-loaded-squat-press",
+    "brand": "Hammer Strength",
+    "model": "Plate Loaded Super Squat Press",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-plate-loaded-squat-press-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-plate-loaded-squat-press"
+  },
+  {
+    "name": "Жим ногами",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Квадрицепс",
+      "Ягодичные мышцы"
+    ],
+    "description": "Разгибание ног с упором стопами в платформу. Траектория зависит от конструкции модели.",
+    "recognition": "Крупная платформа для стоп напротив сиденья со спинкой.",
+    "category": "Силовые",
+    "id": "hammer-strength-select-seated-leg-press",
+    "brand": "Hammer Strength",
+    "model": "Select Seated Leg Press",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-select-seated-leg-press-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-select-seated-leg-press"
+  },
+  {
+    "name": "Жим ногами",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Квадрицепс",
+      "Ягодичные мышцы"
+    ],
+    "description": "Разгибание ног с упором стопами в платформу. Траектория зависит от конструкции модели.",
+    "recognition": "Крупная платформа для стоп напротив сиденья со спинкой.",
+    "category": "Силовые",
+    "id": "axiom-series-leg-press",
+    "brand": "Life Fitness",
+    "model": "Axiom Series Leg Press",
+    "exerciseSlugs": [],
+    "image": "/equipment/axiom-series-leg-press-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/axiom-series-leg-press"
+  },
+  {
+    "name": "Жим ногами",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Квадрицепс",
+      "Ягодичные мышцы"
+    ],
+    "description": "Разгибание ног с упором стопами в платформу. Траектория зависит от конструкции модели.",
+    "recognition": "Крупная платформа для стоп напротив сиденья со спинкой.",
+    "category": "Силовые",
+    "id": "matrix-go-s70",
+    "brand": "Matrix",
+    "model": "GO Leg Press (GO-S70)",
+    "exerciseSlugs": [],
+    "image": "/equipment/matrix-go-s70-v1.webp",
+    "sourceUrl": "https://cpo.matrixfitness.com/products/strength/go/matrix-go-leg-press-black-pads-iced-silver-refurbished-2/"
+  },
+  {
+    "name": "Жим носками",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Икроножная",
+      "Камбаловидная"
+    ],
+    "description": "Разгибание стопы с сопротивлением для мышц голени.",
+    "recognition": "Опора для передней части стопы и механизм сопротивления разгибанию голеностопа.",
+    "category": "Силовые",
+    "id": "hammer-strength-select-horizontal-calf",
+    "brand": "Hammer Strength",
+    "model": "Select Horizontal Calf",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-select-horizontal-calf-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-select-horizontal-calf"
+  },
+  {
+    "name": "Жим носками",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Икроножная",
+      "Камбаловидная"
+    ],
+    "description": "Разгибание стопы с сопротивлением для мышц голени.",
+    "recognition": "Опора для передней части стопы и механизм сопротивления разгибанию голеностопа.",
+    "category": "Силовые",
+    "id": "insignia-series-calf-extension",
+    "brand": "Life Fitness",
+    "model": "Insignia Series Calf Extension",
+    "exerciseSlugs": [],
+    "image": "/equipment/insignia-series-calf-extension-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/insignia-series-calf-extension"
+  },
+  {
+    "name": "Жим носками",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Икроножная",
+      "Камбаловидная"
+    ],
+    "description": "Разгибание стопы с сопротивлением для мышц голени.",
+    "recognition": "Опора для передней части стопы и механизм сопротивления разгибанию голеностопа.",
+    "category": "Силовые",
+    "id": "matrix-g7-s77b",
+    "brand": "Matrix",
+    "model": "Ultra Calf Extension (G7-S77B)",
+    "exerciseSlugs": [],
+    "image": "/equipment/matrix-g7-s77b-v1.webp",
+    "sourceUrl": "https://cpo.matrixfitness.com/products/strength/ultra/ultra-base-trim-light-stack-calf-extension-iced-silver-black-pads/"
+  },
+  {
+    "name": "Жим от груди",
+    "groups": [
+      "Грудь",
+      "Руки"
+    ],
+    "muscles": [
+      "Грудные мышцы",
+      "Трицепс",
+      "Передняя дельта"
+    ],
+    "description": "Жим рукоятей от корпуса для грудных мышц.",
+    "recognition": "Сиденье со спинкой и две жимовые рукояти на уровне груди.",
+    "category": "Силовые",
+    "id": "hammer-strength-mts-iso-lateral-chest-press",
+    "brand": "Hammer Strength",
+    "model": "MTS Iso-Lateral Chest Press",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-mts-iso-lateral-chest-press-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-mts-iso-lateral-chest-press"
+  },
+  {
+    "name": "Жим от груди",
+    "groups": [
+      "Грудь",
+      "Руки"
+    ],
+    "muscles": [
+      "Грудные мышцы",
+      "Трицепс",
+      "Передняя дельта"
+    ],
+    "description": "Жим рукоятей от корпуса для грудных мышц.",
+    "recognition": "Сиденье со спинкой и две жимовые рукояти на уровне груди.",
+    "category": "Силовые",
+    "id": "hammer-strength-plate-loaded-iso-lateral-bench-press",
+    "brand": "Hammer Strength",
+    "model": "Plate Loaded Iso-Lateral Bench Press",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-plate-loaded-iso-lateral-bench-press-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-plate-loaded-iso-lateral-bench-press"
+  },
+  {
+    "name": "Жим от груди",
+    "groups": [
+      "Грудь",
+      "Руки"
+    ],
+    "muscles": [
+      "Грудные мышцы",
+      "Трицепс",
+      "Передняя дельта"
+    ],
+    "description": "Жим рукоятей от корпуса для грудных мышц.",
+    "recognition": "Сиденье со спинкой и две жимовые рукояти на уровне груди.",
+    "category": "Силовые",
+    "id": "hammer-strength-plate-loaded-iso-lateral-wide-chest",
+    "brand": "Hammer Strength",
+    "model": "Plate Loaded Iso-Lateral Wide Chest",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-plate-loaded-iso-lateral-wide-chest-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-plate-loaded-iso-lateral-wide-chest"
+  },
+  {
+    "name": "Жим от груди",
+    "groups": [
+      "Грудь",
+      "Руки"
+    ],
+    "muscles": [
+      "Грудные мышцы",
+      "Трицепс",
+      "Передняя дельта"
+    ],
+    "description": "Жим рукоятей от корпуса для грудных мышц.",
+    "recognition": "Сиденье со спинкой и две жимовые рукояти на уровне груди.",
+    "category": "Силовые",
+    "id": "hammer-strength-select-chest-press",
+    "brand": "Hammer Strength",
+    "model": "Select Chest Press",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-select-chest-press-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-select-chest-press"
+  },
+  {
+    "name": "Жим от груди",
+    "groups": [
+      "Грудь",
+      "Руки"
+    ],
+    "muscles": [
+      "Грудные мышцы",
+      "Трицепс",
+      "Передняя дельта"
+    ],
+    "description": "Жим рукоятей от корпуса для грудных мышц.",
+    "recognition": "Сиденье со спинкой и две жимовые рукояти на уровне груди.",
+    "category": "Силовые",
+    "id": "axiom-series-chest-press",
+    "brand": "Life Fitness",
+    "model": "Axiom Series Chest Press",
+    "exerciseSlugs": [],
+    "image": "/equipment/axiom-series-chest-press-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/axiom-series-chest-press"
+  },
+  {
+    "name": "Жим от груди",
+    "groups": [
+      "Грудь",
+      "Руки"
+    ],
+    "muscles": [
+      "Грудные мышцы",
+      "Трицепс",
+      "Передняя дельта"
+    ],
+    "description": "Жим рукоятей от корпуса для грудных мышц.",
+    "recognition": "Сиденье со спинкой и две жимовые рукояти на уровне груди.",
+    "category": "Силовые",
+    "id": "insignia-series-dual-axis-chest-press",
+    "brand": "Life Fitness",
+    "model": "Insignia Series Dual Axis Chest Press",
+    "exerciseSlugs": [],
+    "image": "/equipment/insignia-series-dual-axis-chest-press-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/insignia-series-dual-axis-chest-press"
+  },
+  {
+    "name": "Жим от груди",
+    "groups": [
+      "Грудь",
+      "Руки"
+    ],
+    "muscles": [
+      "Грудные мышцы",
+      "Трицепс",
+      "Передняя дельта"
+    ],
+    "description": "Жим рукоятей от корпуса для грудных мышц.",
+    "recognition": "Сиденье со спинкой и две жимовые рукояти на уровне груди.",
+    "category": "Силовые",
+    "id": "matrix-g3-s13",
+    "brand": "Matrix",
+    "model": "Aura Converging Chest Press (G3-S13)",
+    "exerciseSlugs": [],
+    "image": "/equipment/matrix-g3-s13-v1.webp",
+    "sourceUrl": "https://cpo.matrixfitness.com/products/strength/aura/aura-converging-chest-press-lace-white-black-pads-3/"
+  },
+  {
+    "name": "Жим от груди / плеч",
+    "groups": [
+      "Грудь",
+      "Плечи",
+      "Руки"
+    ],
+    "muscles": [
+      "Грудные мышцы",
+      "Дельтовидные мышцы",
+      "Трицепс"
+    ],
+    "description": "Комбинированный тренажёр для жимов под разными углами.",
+    "recognition": "Регулируемая спинка и жимовые рукояти с несколькими рабочими положениями.",
+    "category": "Силовые",
+    "id": "axiom-series-multi-press",
+    "brand": "Life Fitness",
+    "model": "Axiom Series Multi-Press",
+    "exerciseSlugs": [],
+    "image": "/equipment/axiom-series-multi-press-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/axiom-series-multi-press"
+  },
+  {
+    "name": "Жим от груди / тяга",
+    "groups": [
+      "Грудь",
+      "Спина",
+      "Руки"
+    ],
+    "muscles": [
+      "Грудные мышцы",
+      "Широчайшие",
+      "Бицепс",
+      "Трицепс"
+    ],
+    "description": "Станция объединяет жим от груди и тягу для спины.",
+    "recognition": "Две рабочие позиции для противоположных направлений движения.",
+    "category": "Силовые",
+    "id": "hammer-strength-plate-loaded-iso-lateral-chest-back",
+    "brand": "Hammer Strength",
+    "model": "Plate Loaded Iso-Lateral Chest/Back",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-plate-loaded-iso-lateral-chest-back-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-plate-loaded-iso-lateral-chest-back"
+  },
+  {
+    "name": "Жим от груди вниз",
+    "groups": [
+      "Грудь",
+      "Руки"
+    ],
+    "muscles": [
+      "Грудные мышцы",
+      "Трицепс"
+    ],
+    "description": "Жим рычагов с направлением движения вперёд и вниз.",
+    "recognition": "Рукояти движутся по нисходящей относительно груди траектории.",
+    "category": "Силовые",
+    "id": "hammer-strength-mts-iso-lateral-decline-press",
+    "brand": "Hammer Strength",
+    "model": "MTS Iso-Lateral Decline Press",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-mts-iso-lateral-decline-press-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-mts-iso-lateral-decline-press"
+  },
+  {
+    "name": "Жим от груди вниз",
+    "groups": [
+      "Грудь",
+      "Руки"
+    ],
+    "muscles": [
+      "Грудные мышцы",
+      "Трицепс"
+    ],
+    "description": "Жим рычагов с направлением движения вперёд и вниз.",
+    "recognition": "Рукояти движутся по нисходящей относительно груди траектории.",
+    "category": "Силовые",
+    "id": "hammer-strength-plate-loaded-iso-lateral-decline-chest-press",
+    "brand": "Hammer Strength",
+    "model": "Plate Loaded Iso-Lateral Decline Chest Press",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-plate-loaded-iso-lateral-decline-chest-press-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-plate-loaded-iso-lateral-decline-chest-press"
+  },
+  {
+    "name": "Жим от плеч",
+    "groups": [
+      "Плечи",
+      "Руки"
+    ],
+    "muscles": [
+      "Дельтовидные мышцы",
+      "Трицепс"
+    ],
+    "description": "Жим рукоятей вверх для мышц плечевого пояса.",
+    "recognition": "Сиденье со спинкой и рукояти около плеч для вертикального жима.",
+    "category": "Силовые",
+    "id": "hammer-strength-mts-iso-lateral-shoulder-press",
+    "brand": "Hammer Strength",
+    "model": "MTS Iso-Lateral Shoulder Press",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-mts-iso-lateral-shoulder-press-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-mts-iso-lateral-shoulder-press"
+  },
+  {
+    "name": "Жим от плеч",
+    "groups": [
+      "Плечи",
+      "Руки"
+    ],
+    "muscles": [
+      "Дельтовидные мышцы",
+      "Трицепс"
+    ],
+    "description": "Жим рукоятей вверх для мышц плечевого пояса.",
+    "recognition": "Сиденье со спинкой и рукояти около плеч для вертикального жима.",
+    "category": "Силовые",
+    "id": "hammer-strength-plate-loaded-iso-lateral-shoulder-press",
+    "brand": "Hammer Strength",
+    "model": "Plate Loaded Iso-Lateral Shoulder Press",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-plate-loaded-iso-lateral-shoulder-press-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-plate-loaded-iso-lateral-shoulder-press"
+  },
+  {
+    "name": "Жим от плеч",
+    "groups": [
+      "Плечи",
+      "Руки"
+    ],
+    "muscles": [
+      "Дельтовидные мышцы",
+      "Трицепс"
+    ],
+    "description": "Жим рукоятей вверх для мышц плечевого пояса.",
+    "recognition": "Сиденье со спинкой и рукояти около плеч для вертикального жима.",
+    "category": "Силовые",
+    "id": "hammer-strength-select-shoulder-press",
+    "brand": "Hammer Strength",
+    "model": "Select Shoulder Press",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-select-shoulder-press-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-select-shoulder-press"
+  },
+  {
+    "name": "Жим от плеч",
+    "groups": [
+      "Плечи",
+      "Руки"
+    ],
+    "muscles": [
+      "Дельтовидные мышцы",
+      "Трицепс"
+    ],
+    "description": "Жим рукоятей вверх для мышц плечевого пояса.",
+    "recognition": "Сиденье со спинкой и рукояти около плеч для вертикального жима.",
+    "category": "Силовые",
+    "id": "axiom-series-shoulder-press",
+    "brand": "Life Fitness",
+    "model": "Axiom Series Shoulder Press",
+    "exerciseSlugs": [],
+    "image": "/equipment/axiom-series-shoulder-press-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/axiom-series-shoulder-press"
+  },
+  {
+    "name": "Жим от плеч",
+    "groups": [
+      "Плечи",
+      "Руки"
+    ],
+    "muscles": [
+      "Дельтовидные мышцы",
+      "Трицепс"
+    ],
+    "description": "Жим рукоятей вверх для мышц плечевого пояса.",
+    "recognition": "Сиденье со спинкой и рукояти около плеч для вертикального жима.",
+    "category": "Силовые",
+    "id": "matrix-g3-s23",
+    "brand": "Matrix",
+    "model": "Aura Converging Shoulder Press (G3-S23)",
+    "exerciseSlugs": [],
+    "image": "/equipment/matrix-g3-s23-v1.webp",
+    "sourceUrl": "https://cpo.matrixfitness.com/products/strength/aura/aura-converging-shoulder-press-lace-white-black-pads-copy/"
+  },
+  {
+    "name": "Жим от плеч",
+    "groups": [
+      "Плечи",
+      "Руки"
+    ],
+    "muscles": [
+      "Дельтовидные мышцы",
+      "Трицепс"
+    ],
+    "description": "Жим рукоятей вверх для мышц плечевого пояса.",
+    "recognition": "Сиденье со спинкой и рукояти около плеч для вертикального жима.",
+    "category": "Силовые",
+    "id": "matrix-g7-s23b",
+    "brand": "Matrix",
+    "model": "Ultra Converging Shoulder Press (G7-S23B)",
+    "exerciseSlugs": [],
+    "image": "/equipment/matrix-g7-s23b-v1.webp",
+    "sourceUrl": "https://cpo.matrixfitness.com/products/strength/ultra/ultra-base-trim-light-stack-conv-shoulder-press-iced-silver-black-pads/"
+  },
+  {
+    "name": "Жим рычагов стоя",
+    "groups": [
+      "Грудь",
+      "Плечи",
+      "Корпус"
+    ],
+    "muscles": [
+      "Грудные мышцы",
+      "Дельтовидные мышцы",
+      "Трицепс",
+      "Мышцы корпуса"
+    ],
+    "description": "Жим рычагов вперёд и вверх из положения стоя.",
+    "recognition": "Два длинных независимых жимовых рычага и открытое пространство для стойки.",
+    "category": "Силовые",
+    "id": "hammer-strength-ground-base-jammer",
+    "brand": "Hammer Strength",
+    "model": "Ground Base Jammer",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-ground-base-jammer-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-ground-base-jammer"
+  },
+  {
+    "name": "Махи ногой",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Ягодичные мышцы",
+      "Мышцы бедра"
+    ],
+    "description": "Тренажёр для движений в тазобедренном суставе с регулируемым упором.",
+    "recognition": "Вертикальная стойка с поворотным рычагом и валиком для ноги.",
+    "category": "Силовые",
+    "id": "hammer-strength-select-hip-and-glute",
+    "brand": "Hammer Strength",
+    "model": "Select Hip and Glute",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-select-hip-and-glute-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-select-hip-and-glute"
+  },
+  {
+    "name": "Машина Смита",
+    "groups": [
+      "Ноги",
+      "Грудь",
+      "Плечи"
+    ],
+    "muscles": [
+      "Мышцы ног",
+      "Грудные мышцы",
+      "Дельтовидные мышцы"
+    ],
+    "description": "Штанга движется по направляющим. Можно выполнять приседания и жимы; мышцы зависят от выбранного упражнения.",
+    "recognition": "Гриф закреплён между двумя направляющими и оснащён фиксаторами.",
+    "category": "Силовые",
+    "id": "hammer-strength-plate-loaded-vertical-smith-machine",
+    "brand": "Hammer Strength",
+    "model": "Plate Loaded Vertical Smith Machine",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-plate-loaded-vertical-smith-machine-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-plate-loaded-vertical-smith-machine"
+  },
+  {
+    "name": "Машина Смита",
+    "groups": [
+      "Ноги",
+      "Грудь",
+      "Плечи"
+    ],
+    "muscles": [
+      "Мышцы ног",
+      "Грудные мышцы",
+      "Дельтовидные мышцы"
+    ],
+    "description": "Штанга движется по направляющим. Можно выполнять приседания и жимы; мышцы зависят от выбранного упражнения.",
+    "recognition": "Гриф закреплён между двумя направляющими и оснащён фиксаторами.",
+    "category": "Силовые",
+    "id": "hammer-strength-smith-machine-1",
+    "brand": "Hammer Strength",
+    "model": "Smith Machine",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-smith-machine-1-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-smith-machine-1"
+  },
+  {
+    "name": "Машина Смита",
+    "groups": [
+      "Ноги",
+      "Грудь",
+      "Плечи"
+    ],
+    "muscles": [
+      "Мышцы ног",
+      "Грудные мышцы",
+      "Дельтовидные мышцы"
+    ],
+    "description": "Штанга движется по направляющим. Можно выполнять приседания и жимы; мышцы зависят от выбранного упражнения.",
+    "recognition": "Гриф закреплён между двумя направляющими и оснащён фиксаторами.",
+    "category": "Силовые",
+    "id": "axiom-series-smith-rack",
+    "brand": "Life Fitness",
+    "model": "Axiom Series Smith Rack",
+    "exerciseSlugs": [],
+    "image": "/equipment/axiom-series-smith-rack-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/axiom-series-smith-rack"
+  },
+  {
+    "name": "Машина Смита",
+    "groups": [
+      "Ноги",
+      "Грудь",
+      "Плечи"
+    ],
+    "muscles": [
+      "Мышцы ног",
+      "Грудные мышцы",
+      "Дельтовидные мышцы"
+    ],
+    "description": "Штанга движется по направляющим. Можно выполнять приседания и жимы; мышцы зависят от выбранного упражнения.",
+    "recognition": "Гриф закреплён между двумя направляющими и оснащён фиксаторами.",
+    "category": "Силовые",
+    "id": "life-fitness-smith-machine",
+    "brand": "Life Fitness",
+    "model": "Smith Machine",
+    "exerciseSlugs": [],
+    "image": "/equipment/life-fitness-smith-machine-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/life-fitness-smith-machine"
+  },
+  {
+    "name": "Маятниковый присед",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Квадрицепс",
+      "Ягодичные мышцы"
+    ],
+    "description": "Приседание на рычаге, движущемся по маятниковой траектории.",
+    "recognition": "Длинный подвесной рычаг со спинкой и плечевыми упорами над платформой.",
+    "category": "Силовые",
+    "id": "hammer-strength-plate-loaded-pendulum-x-squat-1",
+    "brand": "Hammer Strength",
+    "model": "Plate Loaded Pendulum-X Squat",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-plate-loaded-pendulum-x-squat-1-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-plate-loaded-pendulum-x-squat-1"
+  },
+  {
+    "name": "Многофункциональная станция",
+    "groups": [
+      "Грудь",
+      "Спина",
+      "Руки",
+      "Ноги",
+      "Корпус"
+    ],
+    "muscles": [
+      "Грудные мышцы",
+      "Мышцы спины",
+      "Мышцы рук",
+      "Мышцы ног",
+      "Мышцы корпуса"
+    ],
+    "description": "Несколько рабочих позиций в одной конструкции. Набор движений определяется комплектацией.",
+    "recognition": "Общая рама объединяет несколько рукоятей, блоков или рабочих мест.",
+    "category": "Силовые",
+    "id": "g2-home-gym",
+    "brand": "Life Fitness",
+    "model": "G2 Home Gym",
+    "exerciseSlugs": [],
+    "image": "/equipment/g2-home-gym-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/g2-home-gym"
+  },
+  {
+    "name": "Многофункциональная станция",
+    "groups": [
+      "Грудь",
+      "Спина",
+      "Руки",
+      "Ноги",
+      "Корпус"
+    ],
+    "muscles": [
+      "Грудные мышцы",
+      "Мышцы спины",
+      "Мышцы рук",
+      "Мышцы ног",
+      "Мышцы корпуса"
+    ],
+    "description": "Несколько рабочих позиций в одной конструкции. Набор движений определяется комплектацией.",
+    "recognition": "Общая рама объединяет несколько рукоятей, блоков или рабочих мест.",
+    "category": "Силовые",
+    "id": "g4-home-gym",
+    "brand": "Life Fitness",
+    "model": "G4 Home Gym",
+    "exerciseSlugs": [],
+    "image": "/equipment/g4-home-gym-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/g4-home-gym"
+  },
+  {
+    "name": "Многофункциональная станция",
+    "groups": [
+      "Грудь",
+      "Спина",
+      "Руки",
+      "Ноги",
+      "Корпус"
+    ],
+    "muscles": [
+      "Грудные мышцы",
+      "Мышцы спины",
+      "Мышцы рук",
+      "Мышцы ног",
+      "Мышцы корпуса"
+    ],
+    "description": "Несколько рабочих позиций в одной конструкции. Набор движений определяется комплектацией.",
+    "recognition": "Общая рама объединяет несколько рукоятей, блоков или рабочих мест.",
+    "category": "Силовые",
+    "id": "life-fitness-power-play-3-stations",
+    "brand": "Life Fitness",
+    "model": "PWR Play - 3 Stations",
+    "exerciseSlugs": [],
+    "image": "/equipment/life-fitness-power-play-3-stations-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/life-fitness-power-play-3-stations"
+  },
+  {
+    "name": "Многофункциональная станция",
+    "groups": [
+      "Грудь",
+      "Спина",
+      "Руки",
+      "Ноги",
+      "Корпус"
+    ],
+    "muscles": [
+      "Грудные мышцы",
+      "Мышцы спины",
+      "Мышцы рук",
+      "Мышцы ног",
+      "Мышцы корпуса"
+    ],
+    "description": "Несколько рабочих позиций в одной конструкции. Набор движений определяется комплектацией.",
+    "recognition": "Общая рама объединяет несколько рукоятей, блоков или рабочих мест.",
+    "category": "Силовые",
+    "id": "life-fitness-power-play-4-stations",
+    "brand": "Life Fitness",
+    "model": "PWR Play - 4 Stations",
+    "exerciseSlugs": [],
+    "image": "/equipment/life-fitness-power-play-4-stations-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/life-fitness-power-play-4-stations"
+  },
+  {
+    "name": "Многофункциональная станция",
+    "groups": [
+      "Грудь",
+      "Спина",
+      "Руки",
+      "Ноги",
+      "Корпус"
+    ],
+    "muscles": [
+      "Грудные мышцы",
+      "Мышцы спины",
+      "Мышцы рук",
+      "Мышцы ног",
+      "Мышцы корпуса"
+    ],
+    "description": "Несколько рабочих позиций в одной конструкции. Набор движений определяется комплектацией.",
+    "recognition": "Общая рама объединяет несколько рукоятей, блоков или рабочих мест.",
+    "category": "Силовые",
+    "id": "life-fitness-power-play-core-crossover",
+    "brand": "Life Fitness",
+    "model": "PWR Play - 5 Stations",
+    "exerciseSlugs": [],
+    "image": "/equipment/life-fitness-power-play-core-crossover-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/life-fitness-power-play-core-crossover"
+  },
+  {
+    "name": "Многофункциональная станция",
+    "groups": [
+      "Грудь",
+      "Спина",
+      "Руки",
+      "Ноги",
+      "Корпус"
+    ],
+    "muscles": [
+      "Грудные мышцы",
+      "Мышцы спины",
+      "Мышцы рук",
+      "Мышцы ног",
+      "Мышцы корпуса"
+    ],
+    "description": "Несколько рабочих позиций в одной конструкции. Набор движений определяется комплектацией.",
+    "recognition": "Общая рама объединяет несколько рукоятей, блоков или рабочих мест.",
+    "category": "Силовые",
+    "id": "life-fitness-power-play-core-4",
+    "brand": "Life Fitness",
+    "model": "PWR Play - Core +4",
+    "exerciseSlugs": [],
+    "image": "/equipment/life-fitness-power-play-core-4-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/life-fitness-power-play-core-4"
+  },
+  {
+    "name": "Наклонный жим от груди",
+    "groups": [
+      "Грудь",
+      "Руки"
+    ],
+    "muscles": [
+      "Грудные мышцы",
+      "Передняя дельта",
+      "Трицепс"
+    ],
+    "description": "Жим по восходящей траектории с акцентом на верхнюю часть груди.",
+    "recognition": "Жимовые рычаги направлены вперёд и вверх относительно корпуса.",
+    "category": "Силовые",
+    "id": "hammer-strength-mts-iso-lateral-incline-press",
+    "brand": "Hammer Strength",
+    "model": "MTS Iso-Lateral Incline Press",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-mts-iso-lateral-incline-press-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-mts-iso-lateral-incline-press"
+  },
+  {
+    "name": "Наклонный жим от груди",
+    "groups": [
+      "Грудь",
+      "Руки"
+    ],
+    "muscles": [
+      "Грудные мышцы",
+      "Передняя дельта",
+      "Трицепс"
+    ],
+    "description": "Жим по восходящей траектории с акцентом на верхнюю часть груди.",
+    "recognition": "Жимовые рычаги направлены вперёд и вверх относительно корпуса.",
+    "category": "Силовые",
+    "id": "hammer-strength-plate-loaded-iso-lateral-incline-press",
+    "brand": "Hammer Strength",
+    "model": "Plate Loaded Iso-Lateral Incline Press",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-plate-loaded-iso-lateral-incline-press-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-plate-loaded-iso-lateral-incline-press"
+  },
+  {
+    "name": "Наклонный жим от груди",
+    "groups": [
+      "Грудь",
+      "Руки"
+    ],
+    "muscles": [
+      "Грудные мышцы",
+      "Передняя дельта",
+      "Трицепс"
+    ],
+    "description": "Жим по восходящей траектории с акцентом на верхнюю часть груди.",
+    "recognition": "Жимовые рычаги направлены вперёд и вверх относительно корпуса.",
+    "category": "Силовые",
+    "id": "hammer-strength-plate-loaded-iso-lateral-super-incline-press",
+    "brand": "Hammer Strength",
+    "model": "Plate Loaded Iso-Lateral Super Incline Press",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-plate-loaded-iso-lateral-super-incline-press-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-plate-loaded-iso-lateral-super-incline-press"
+  },
+  {
+    "name": "Нижняя рычажная тяга",
+    "groups": [
+      "Спина",
+      "Руки"
+    ],
+    "muscles": [
+      "Широчайшие",
+      "Ромбовидные",
+      "Бицепс"
+    ],
+    "description": "Тяга нижних рукоятей к корпусу на рычажном тренажёре.",
+    "recognition": "Низко расположенные рукояти и опора для стабилизации корпуса.",
+    "category": "Силовые",
+    "id": "hammer-strength-plate-loaded-iso-lateral-low-row",
+    "brand": "Hammer Strength",
+    "model": "Plate Loaded Iso-Lateral Low Row",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-plate-loaded-iso-lateral-low-row-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-plate-loaded-iso-lateral-low-row"
+  },
+  {
+    "name": "Отведение ноги назад",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Большая ягодичная",
+      "Мышцы задней поверхности бедра"
+    ],
+    "description": "Разгибание бедра с сопротивлением: рабочая нога уходит назад.",
+    "recognition": "Опора для корпуса и отдельный подвижный упор для рабочей ноги.",
+    "category": "Силовые",
+    "id": "insignia-series-glute",
+    "brand": "Life Fitness",
+    "model": "Insignia Series Glute",
+    "exerciseSlugs": [],
+    "image": "/equipment/insignia-series-glute-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/insignia-series-glute"
+  },
+  {
+    "name": "Отведение ноги назад",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Большая ягодичная",
+      "Мышцы задней поверхности бедра"
+    ],
+    "description": "Разгибание бедра с сопротивлением: рабочая нога уходит назад.",
+    "recognition": "Опора для корпуса и отдельный подвижный упор для рабочей ноги.",
+    "category": "Силовые",
+    "id": "matrix-g7-s78b",
+    "brand": "Matrix",
+    "model": "Ultra Glute (G7-S78B)",
+    "exerciseSlugs": [],
+    "image": "/equipment/matrix-g7-s78b-v1.webp",
+    "sourceUrl": "https://cpo.matrixfitness.com/products/strength/ultra/ultra-base-trim-light-stack-glute-iced-silver-black-pads/"
+  },
+  {
+    "name": "Повороты с рычагами стоя",
+    "groups": [
+      "Корпус",
+      "Грудь",
+      "Спина"
+    ],
+    "muscles": [
+      "Косые мышцы живота",
+      "Грудные мышцы",
+      "Мышцы спины"
+    ],
+    "description": "Повороты корпуса с одновременным жимом и тягой рычагов.",
+    "recognition": "Парные рукояти на рычагах и свободное пространство для разворота стоя.",
+    "category": "Силовые",
+    "id": "hammer-strength-plate-loaded-combo-twist",
+    "brand": "Hammer Strength",
+    "model": "Plate Loaded Combo Twist",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-plate-loaded-combo-twist-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-plate-loaded-combo-twist"
+  },
+  {
+    "name": "Подъём на носки сидя",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Камбаловидная",
+      "Икроножная"
+    ],
+    "description": "Подъём пяток сидя с сопротивлением на бёдрах.",
+    "recognition": "Низкая платформа под носки и подушки над коленями.",
+    "category": "Силовые",
+    "id": "hammer-strength-plate-loaded-seated-calf-raise",
+    "brand": "Hammer Strength",
+    "model": "Plate Loaded Seated Calf Raise",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-plate-loaded-seated-calf-raise-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-plate-loaded-seated-calf-raise"
+  },
+  {
+    "name": "Подъём на носки стоя",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Икроножная",
+      "Камбаловидная"
+    ],
+    "description": "Подъём на носки стоя под нагружаемыми плечевыми упорами.",
+    "recognition": "Невысокая платформа для стоп и мягкие упоры над плечами.",
+    "category": "Силовые",
+    "id": "hammer-strength-select-standing-calf",
+    "brand": "Hammer Strength",
+    "model": "Select Standing Calf",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-select-standing-calf-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-select-standing-calf"
+  },
+  {
+    "name": "Подъём носков",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Передняя большеберцовая"
+    ],
+    "description": "Тыльное сгибание стопы — подъём носков против сопротивления.",
+    "recognition": "Небольшой напольный рычаг с креплением для передней части стоп.",
+    "category": "Силовые",
+    "id": "hammer-strength-plate-loaded-tibia-dorsi-flexion",
+    "brand": "Hammer Strength",
+    "model": "Plate Loaded Tibia Dorsi Flexion",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-plate-loaded-tibia-dorsi-flexion-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-plate-loaded-tibia-dorsi-flexion"
+  },
+  {
+    "name": "Пресс / косые мышцы",
+    "groups": [
+      "Корпус"
+    ],
+    "muscles": [
+      "Прямая мышца живота",
+      "Косые мышцы живота"
+    ],
+    "description": "Тренажёр для скручиваний с возможностью смещения акцента на косые мышцы.",
+    "recognition": "Сиденье и рычаг для корпуса с возможностью изменения положения.",
+    "category": "Силовые",
+    "id": "hammer-strength-plate-loaded-abdominal-oblique-crunch-1",
+    "brand": "Hammer Strength",
+    "model": "Plate Loaded Abdominal Oblique Crunch",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-plate-loaded-abdominal-oblique-crunch-1-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-plate-loaded-abdominal-oblique-crunch-1"
+  },
+  {
+    "name": "Пресс / разгибание спины",
+    "groups": [
+      "Корпус",
+      "Спина"
+    ],
+    "muscles": [
+      "Прямая мышца живота",
+      "Разгибатели позвоночника"
+    ],
+    "description": "Сгибание и разгибание корпуса на комбинированной станции.",
+    "recognition": "Подвижные упоры можно настроить для движения корпуса вперёд или назад.",
+    "category": "Силовые",
+    "id": "axiom-series-abdominal-back-extension",
+    "brand": "Life Fitness",
+    "model": "Axiom Series Abdominal / Back Extension",
+    "exerciseSlugs": [],
+    "image": "/equipment/axiom-series-abdominal-back-extension-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/axiom-series-abdominal-back-extension"
+  },
+  {
+    "name": "Присед / высокая тяга",
+    "groups": [
+      "Ноги",
+      "Спина",
+      "Плечи"
+    ],
+    "muscles": [
+      "Квадрицепс",
+      "Ягодичные мышцы",
+      "Трапециевидная",
+      "Дельтовидные мышцы"
+    ],
+    "description": "Комбинированный рычажный тренажёр для приседаний и высокой тяги.",
+    "recognition": "Длинные рычаги с низкими рукоятями и свободное место для стойки на полу.",
+    "category": "Силовые",
+    "id": "hammer-strength-plate-loaded-squat-high-pull",
+    "brand": "Hammer Strength",
+    "model": "Ground Base Squat / High Pull",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-plate-loaded-squat-high-pull-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-plate-loaded-squat-high-pull"
+  },
+  {
+    "name": "Присед с поясом",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Квадрицепс",
+      "Ягодичные мышцы"
+    ],
+    "description": "Приседание с нагрузкой, прикреплённой к поясу на тазу.",
+    "recognition": "Платформа с рукоятями и нижним креплением для силового пояса.",
+    "category": "Силовые",
+    "id": "hammer-strength-plate-loaded-belt-squat",
+    "brand": "Hammer Strength",
+    "model": "Plate Loaded Belt Squat",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-plate-loaded-belt-squat-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-plate-loaded-belt-squat"
+  },
+  {
+    "name": "Присед с рычагами",
+    "groups": [
+      "Ноги",
+      "Корпус"
+    ],
+    "muscles": [
+      "Квадрицепс",
+      "Ягодичные мышцы",
+      "Мышцы корпуса"
+    ],
+    "description": "Приседания и выпады стоя на полу с сопротивлением рычагов.",
+    "recognition": "Открытое пространство для ног и рукояти на длинных рычагах.",
+    "category": "Силовые",
+    "id": "hammer-strength-ground-base-multi-squat",
+    "brand": "Hammer Strength",
+    "model": "Ground Base Multi-Squat",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-ground-base-multi-squat-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-ground-base-multi-squat"
+  },
+  {
+    "name": "Пуловер",
+    "groups": [
+      "Спина"
+    ],
+    "muscles": [
+      "Широчайшие",
+      "Большая круглая мышца"
+    ],
+    "description": "Приведение плеча сверху к корпусу на тренажёре для пуловера.",
+    "recognition": "Рычаг с упорами движется по дуге над сиденьем.",
+    "category": "Силовые",
+    "id": "hammer-strength-plate-loaded-pullover",
+    "brand": "Hammer Strength",
+    "model": "Plate Loaded Pullover",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-plate-loaded-pullover-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-plate-loaded-pullover"
+  },
+  {
+    "name": "Разведение ног",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Средняя ягодичная",
+      "Малая ягодичная"
+    ],
+    "description": "Отведение бёдер наружу против сопротивления.",
+    "recognition": "Два упора с наружной стороны бёдер для разведения ног.",
+    "category": "Силовые",
+    "id": "hammer-strength-select-hip-abduction",
+    "brand": "Hammer Strength",
+    "model": "Select Hip Abduction",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-select-hip-abduction-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-select-hip-abduction"
+  },
+  {
+    "name": "Разведение ног",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Средняя ягодичная",
+      "Малая ягодичная"
+    ],
+    "description": "Отведение бёдер наружу против сопротивления.",
+    "recognition": "Два упора с наружной стороны бёдер для разведения ног.",
+    "category": "Силовые",
+    "id": "insignia-series-sit-stand-hip-abductor",
+    "brand": "Life Fitness",
+    "model": "Insignia Series Sit / Stand Hip Abductor",
+    "exerciseSlugs": [],
+    "image": "/equipment/insignia-series-sit-stand-hip-abductor-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/insignia-series-sit-stand-hip-abductor"
+  },
+  {
+    "name": "Разведение ног",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Средняя ягодичная",
+      "Малая ягодичная"
+    ],
+    "description": "Отведение бёдер наружу против сопротивления.",
+    "recognition": "Два упора с наружной стороны бёдер для разведения ног.",
+    "category": "Силовые",
+    "id": "matrix-g3-s75",
+    "brand": "Matrix",
+    "model": "Aura Hip Abductor (G3-S75)",
+    "exerciseSlugs": [],
+    "image": "/equipment/matrix-g3-s75-v1.webp",
+    "sourceUrl": "https://cpo.matrixfitness.com/products/strength/aura/aura-hip-abductor-lace-white-black-pads-2/"
+  },
+  {
+    "name": "Разведение ног",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Средняя ягодичная",
+      "Малая ягодичная"
+    ],
+    "description": "Отведение бёдер наружу против сопротивления.",
+    "recognition": "Два упора с наружной стороны бёдер для разведения ног.",
+    "category": "Силовые",
+    "id": "matrix-g7-s75b",
+    "brand": "Matrix",
+    "model": "Ultra Hip Abductor (G7-S75B)",
+    "exerciseSlugs": [],
+    "image": "/equipment/matrix-g7-s75b-v1.webp",
+    "sourceUrl": "https://cpo.matrixfitness.com/products/strength/ultra/ultra-base-trim-light-stack-hip-abductor-iced-silver-black-pads/"
+  },
+  {
+    "name": "Разведение рук в стороны",
+    "groups": [
+      "Плечи"
+    ],
+    "muscles": [
+      "Средняя дельта"
+    ],
+    "description": "Подъём рук в стороны с сопротивлением тренажёра.",
+    "recognition": "Парные боковые рычаги с рукоятями или мягкими упорами для рук.",
+    "category": "Силовые",
+    "id": "hammer-strength-plate-loaded-lateral-raise",
+    "brand": "Hammer Strength",
+    "model": "Plate Loaded Lateral Raise",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-plate-loaded-lateral-raise-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-plate-loaded-lateral-raise"
+  },
+  {
+    "name": "Разведение рук в стороны",
+    "groups": [
+      "Плечи"
+    ],
+    "muscles": [
+      "Средняя дельта"
+    ],
+    "description": "Подъём рук в стороны с сопротивлением тренажёра.",
+    "recognition": "Парные боковые рычаги с рукоятями или мягкими упорами для рук.",
+    "category": "Силовые",
+    "id": "hammer-strength-select-lateral-raise",
+    "brand": "Hammer Strength",
+    "model": "Select Lateral Raise",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-select-lateral-raise-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-select-lateral-raise"
+  },
+  {
+    "name": "Разведение рук в стороны",
+    "groups": [
+      "Плечи"
+    ],
+    "muscles": [
+      "Средняя дельта"
+    ],
+    "description": "Подъём рук в стороны с сопротивлением тренажёра.",
+    "recognition": "Парные боковые рычаги с рукоятями или мягкими упорами для рук.",
+    "category": "Силовые",
+    "id": "insignia-series-lateral-raise",
+    "brand": "Life Fitness",
+    "model": "Insignia Series Lateral Raise",
+    "exerciseSlugs": [],
+    "image": "/equipment/insignia-series-lateral-raise-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/insignia-series-lateral-raise"
+  },
+  {
+    "name": "Разведение рук в стороны",
+    "groups": [
+      "Плечи"
+    ],
+    "muscles": [
+      "Средняя дельта"
+    ],
+    "description": "Подъём рук в стороны с сопротивлением тренажёра.",
+    "recognition": "Парные боковые рычаги с рукоятями или мягкими упорами для рук.",
+    "category": "Силовые",
+    "id": "matrix-g7-s21b",
+    "brand": "Matrix",
+    "model": "Ultra Lateral Raise (G7-S21B)",
+    "exerciseSlugs": [],
+    "image": "/equipment/matrix-g7-s21b-v1.webp",
+    "sourceUrl": "https://cpo.matrixfitness.com/products/strength/ultra/ultra-base-trim-light-stack-lateral-raise-iced-silver-black-pads/"
+  },
+  {
+    "name": "Разгибание ног",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Квадрицепс"
+    ],
+    "description": "Разгибание коленей сидя с сопротивлением подвижного валика.",
+    "recognition": "Сиденье со спинкой и валик перед нижней частью голеней.",
+    "category": "Силовые",
+    "id": "hammer-strength-mts-leg-extension",
+    "brand": "Hammer Strength",
+    "model": "MTS Leg Extension",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-mts-leg-extension-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-mts-leg-extension"
+  },
+  {
+    "name": "Разгибание ног",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Квадрицепс"
+    ],
+    "description": "Разгибание коленей сидя с сопротивлением подвижного валика.",
+    "recognition": "Сиденье со спинкой и валик перед нижней частью голеней.",
+    "category": "Силовые",
+    "id": "hammer-strength-plate-loaded-iso-lateral-leg-extension",
+    "brand": "Hammer Strength",
+    "model": "Plate Loaded Iso-Lateral Leg Extension",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-plate-loaded-iso-lateral-leg-extension-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-plate-loaded-iso-lateral-leg-extension"
+  },
+  {
+    "name": "Разгибание ног",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Квадрицепс"
+    ],
+    "description": "Разгибание коленей сидя с сопротивлением подвижного валика.",
+    "recognition": "Сиденье со спинкой и валик перед нижней частью голеней.",
+    "category": "Силовые",
+    "id": "hammer-strength-select-leg-extension",
+    "brand": "Hammer Strength",
+    "model": "Select Leg Extension",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-select-leg-extension-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-select-leg-extension"
+  },
+  {
+    "name": "Разгибание ног",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Квадрицепс"
+    ],
+    "description": "Разгибание коленей сидя с сопротивлением подвижного валика.",
+    "recognition": "Сиденье со спинкой и валик перед нижней частью голеней.",
+    "category": "Силовые",
+    "id": "axiom-series-leg-extension",
+    "brand": "Life Fitness",
+    "model": "Axiom Series Leg Extension",
+    "exerciseSlugs": [],
+    "image": "/equipment/axiom-series-leg-extension-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/axiom-series-leg-extension"
+  },
+  {
+    "name": "Разгибание ног",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Квадрицепс"
+    ],
+    "description": "Разгибание коленей сидя с сопротивлением подвижного валика.",
+    "recognition": "Сиденье со спинкой и валик перед нижней частью голеней.",
+    "category": "Силовые",
+    "id": "matrix-go-s71",
+    "brand": "Matrix",
+    "model": "GO Leg Extension (GO-S71)",
+    "exerciseSlugs": [],
+    "image": "/equipment/matrix-go-s71-v1.webp",
+    "sourceUrl": "https://cpo.matrixfitness.com/products/strength/go/matrix-go-leg-extension-black-pads-iced-silver-refurbished/"
+  },
+  {
+    "name": "Разгибание рук на трицепс",
+    "groups": [
+      "Руки"
+    ],
+    "muscles": [
+      "Трицепс"
+    ],
+    "description": "Разгибание рук против сопротивления тренажёра.",
+    "recognition": "Рукояти и опора для рук помогают выполнять движение в локтях.",
+    "category": "Силовые",
+    "id": "hammer-strength-mts-iso-lateral-triceps-extension",
+    "brand": "Hammer Strength",
+    "model": "MTS Iso-Lateral Triceps Extension",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-mts-iso-lateral-triceps-extension-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-mts-iso-lateral-triceps-extension"
+  },
+  {
+    "name": "Разгибание рук на трицепс",
+    "groups": [
+      "Руки"
+    ],
+    "muscles": [
+      "Трицепс"
+    ],
+    "description": "Разгибание рук против сопротивления тренажёра.",
+    "recognition": "Рукояти и опора для рук помогают выполнять движение в локтях.",
+    "category": "Силовые",
+    "id": "hammer-strength-select-triceps-extension",
+    "brand": "Hammer Strength",
+    "model": "Select Triceps Extension",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-select-triceps-extension-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-select-triceps-extension"
+  },
+  {
+    "name": "Разгибание рук на трицепс",
+    "groups": [
+      "Руки"
+    ],
+    "muscles": [
+      "Трицепс"
+    ],
+    "description": "Разгибание рук против сопротивления тренажёра.",
+    "recognition": "Рукояти и опора для рук помогают выполнять движение в локтях.",
+    "category": "Силовые",
+    "id": "axiom-series-triceps-extension",
+    "brand": "Life Fitness",
+    "model": "Axiom Series Triceps Extension",
+    "exerciseSlugs": [],
+    "image": "/equipment/axiom-series-triceps-extension-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/axiom-series-triceps-extension"
+  },
+  {
+    "name": "Разгибание рук на трицепс",
+    "groups": [
+      "Руки"
+    ],
+    "muscles": [
+      "Трицепс"
+    ],
+    "description": "Разгибание рук против сопротивления тренажёра.",
+    "recognition": "Рукояти и опора для рук помогают выполнять движение в локтях.",
+    "category": "Силовые",
+    "id": "insignia-series-triceps-extension",
+    "brand": "Life Fitness",
+    "model": "Insignia Series Triceps Extension",
+    "exerciseSlugs": [],
+    "image": "/equipment/insignia-series-triceps-extension-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/insignia-series-triceps-extension"
+  },
+  {
+    "name": "Разгибание рук на трицепс",
+    "groups": [
+      "Руки"
+    ],
+    "muscles": [
+      "Трицепс"
+    ],
+    "description": "Разгибание рук против сопротивления тренажёра.",
+    "recognition": "Рукояти и опора для рук помогают выполнять движение в локтях.",
+    "category": "Силовые",
+    "id": "matrix-g3-s45",
+    "brand": "Matrix",
+    "model": "Aura Triceps Extension (G3-S45)",
+    "exerciseSlugs": [],
+    "image": "/equipment/matrix-g3-s45-v1.webp",
+    "sourceUrl": "https://cpo.matrixfitness.com/products/strength/aura/aura-arm-curl-lace-white-black-pads-2/"
+  },
+  {
+    "name": "Разгибание рук на трицепс",
+    "groups": [
+      "Руки"
+    ],
+    "muscles": [
+      "Трицепс"
+    ],
+    "description": "Разгибание рук против сопротивления тренажёра.",
+    "recognition": "Рукояти и опора для рук помогают выполнять движение в локтях.",
+    "category": "Силовые",
+    "id": "matrix-g7-s45b",
+    "brand": "Matrix",
+    "model": "Ultra Triceps Extension (G7-S45B)",
+    "exerciseSlugs": [],
+    "image": "/equipment/matrix-g7-s45b-v1.webp",
+    "sourceUrl": "https://cpo.matrixfitness.com/products/strength/ultra/ultra-base-trim-light-stack-triceps-extension-iced-silver-black-pads/"
+  },
+  {
+    "name": "Разгибание спины",
+    "groups": [
+      "Спина",
+      "Корпус"
+    ],
+    "muscles": [
+      "Разгибатели позвоночника"
+    ],
+    "description": "Разгибание корпуса с сопротивлением тренажёра.",
+    "recognition": "Сиденье, фиксация таза и мягкий упор, движущийся вместе со спиной.",
+    "category": "Силовые",
+    "id": "hammer-strength-select-back-extension",
+    "brand": "Hammer Strength",
+    "model": "Select Back Extension",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-select-back-extension-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-select-back-extension"
+  },
+  {
+    "name": "Разгибание спины",
+    "groups": [
+      "Спина",
+      "Корпус"
+    ],
+    "muscles": [
+      "Разгибатели позвоночника"
+    ],
+    "description": "Разгибание корпуса с сопротивлением тренажёра.",
+    "recognition": "Сиденье, фиксация таза и мягкий упор, движущийся вместе со спиной.",
+    "category": "Силовые",
+    "id": "insignia-series-back-extension",
+    "brand": "Life Fitness",
+    "model": "Insignia Series Back Extension",
+    "exerciseSlugs": [],
+    "image": "/equipment/insignia-series-back-extension-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/insignia-series-back-extension"
+  },
+  {
+    "name": "Разгибание спины",
+    "groups": [
+      "Спина",
+      "Корпус"
+    ],
+    "muscles": [
+      "Разгибатели позвоночника"
+    ],
+    "description": "Разгибание корпуса с сопротивлением тренажёра.",
+    "recognition": "Сиденье, фиксация таза и мягкий упор, движущийся вместе со спиной.",
+    "category": "Силовые",
+    "id": "matrix-g7-s52b",
+    "brand": "Matrix",
+    "model": "Ultra Back Extension (G7-S52B)",
+    "exerciseSlugs": [],
+    "image": "/equipment/matrix-g7-s52b-v1.webp",
+    "sourceUrl": "https://cpo.matrixfitness.com/products/strength/ultra/ultra-base-trim-light-stack-back-extension-iced-silver-black-pads/"
+  },
+  {
+    "name": "Регулируемые блоки",
+    "groups": [
+      "Грудь",
+      "Спина",
+      "Плечи",
+      "Руки",
+      "Корпус"
+    ],
+    "muscles": [
+      "Грудные мышцы",
+      "Мышцы спины",
+      "Дельтовидные мышцы",
+      "Мышцы рук",
+      "Мышцы корпуса"
+    ],
+    "description": "Тросовая станция для тяг, жимов и других движений со сменными рукоятями. Работающие мышцы зависят от упражнения.",
+    "recognition": "Один или два грузовых стека и блоки, положение которых можно менять.",
+    "category": "Силовые",
+    "id": "axiom-dual-adjustable-pulley",
+    "brand": "Life Fitness",
+    "model": "Axiom Dual Adjustable Pulley",
+    "exerciseSlugs": [],
+    "image": "/equipment/axiom-dual-adjustable-pulley-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/axiom-dual-adjustable-pulley"
+  },
+  {
+    "name": "Регулируемые блоки",
+    "groups": [
+      "Грудь",
+      "Спина",
+      "Плечи",
+      "Руки",
+      "Корпус"
+    ],
+    "muscles": [
+      "Грудные мышцы",
+      "Мышцы спины",
+      "Дельтовидные мышцы",
+      "Мышцы рук",
+      "Мышцы корпуса"
+    ],
+    "description": "Тросовая станция для тяг, жимов и других движений со сменными рукоятями. Работающие мышцы зависят от упражнения.",
+    "recognition": "Один или два грузовых стека и блоки, положение которых можно менять.",
+    "category": "Силовые",
+    "id": "life-fitness-dual-adjustable-pulley",
+    "brand": "Life Fitness",
+    "model": "Dual Adjustable Pulley",
+    "exerciseSlugs": [],
+    "image": "/equipment/life-fitness-dual-adjustable-pulley-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/life-fitness-dual-adjustable-pulley"
+  },
+  {
+    "name": "Регулируемые блоки",
+    "groups": [
+      "Грудь",
+      "Спина",
+      "Плечи",
+      "Руки",
+      "Корпус"
+    ],
+    "muscles": [
+      "Грудные мышцы",
+      "Мышцы спины",
+      "Дельтовидные мышцы",
+      "Мышцы рук",
+      "Мышцы корпуса"
+    ],
+    "description": "Тросовая станция для тяг, жимов и других движений со сменными рукоятями. Работающие мышцы зависят от упражнения.",
+    "recognition": "Один или два грузовых стека и блоки, положение которых можно менять.",
+    "category": "Силовые",
+    "id": "g7-home-gym",
+    "brand": "Life Fitness",
+    "model": "G7 Home Gym",
+    "exerciseSlugs": [],
+    "image": "/equipment/g7-home-gym-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/g7-home-gym"
+  },
+  {
+    "name": "Регулируемые блоки",
+    "groups": [
+      "Грудь",
+      "Спина",
+      "Плечи",
+      "Руки",
+      "Корпус"
+    ],
+    "muscles": [
+      "Грудные мышцы",
+      "Мышцы спины",
+      "Дельтовидные мышцы",
+      "Мышцы рук",
+      "Мышцы корпуса"
+    ],
+    "description": "Тросовая станция для тяг, жимов и других движений со сменными рукоятями. Работающие мышцы зависят от упражнения.",
+    "recognition": "Один или два грузовых стека и блоки, положение которых можно менять.",
+    "category": "Силовые",
+    "id": "life-fitness-universal-cable",
+    "brand": "Life Fitness",
+    "model": "Universal Cable",
+    "exerciseSlugs": [],
+    "image": "/equipment/life-fitness-universal-cable-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/life-fitness-universal-cable"
+  },
+  {
+    "name": "Регулируемые блоки",
+    "groups": [
+      "Грудь",
+      "Спина",
+      "Плечи",
+      "Руки",
+      "Корпус"
+    ],
+    "muscles": [
+      "Грудные мышцы",
+      "Мышцы спины",
+      "Дельтовидные мышцы",
+      "Мышцы рук",
+      "Мышцы корпуса"
+    ],
+    "description": "Тросовая станция для тяг, жимов и других движений со сменными рукоятями. Работающие мышцы зависят от упражнения.",
+    "recognition": "Один или два грузовых стека и блоки, положение которых можно менять.",
+    "category": "Силовые",
+    "id": "matrix-g3-ms51",
+    "brand": "Matrix",
+    "model": "Aura Adjustable Pulley (G3-MS51)",
+    "exerciseSlugs": [],
+    "image": "/equipment/matrix-g3-ms51-v1.webp",
+    "sourceUrl": "https://cpo.matrixfitness.com/products/strength/aura/matrix-aura-adjustable-pulley-polarized-titanium/"
+  },
+  {
+    "name": "Рычажный жим лёжа",
+    "groups": [
+      "Грудь",
+      "Руки"
+    ],
+    "muscles": [
+      "Грудные мышцы",
+      "Трицепс",
+      "Передняя дельта"
+    ],
+    "description": "Жим рычагов лёжа на горизонтальной скамье.",
+    "recognition": "Горизонтальная скамья встроена между жимовыми рычагами.",
+    "category": "Силовые",
+    "id": "hammer-strength-plate-loaded-iso-lateral-horizontal-bench-press",
+    "brand": "Hammer Strength",
+    "model": "Plate Loaded Iso-Lateral Horizontal Bench Press",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-plate-loaded-iso-lateral-horizontal-bench-press-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-plate-loaded-iso-lateral-horizontal-bench-press"
+  },
+  {
+    "name": "Рычажный присед",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Квадрицепс",
+      "Ягодичные мышцы"
+    ],
+    "description": "Приседание с сопротивлением рычажного механизма.",
+    "recognition": "Платформа для ног и нагружаемый рычаг с опорой для корпуса или плеч.",
+    "category": "Силовые",
+    "id": "hammer-strength-plate-loaded-v-squat",
+    "brand": "Hammer Strength",
+    "model": "Plate Loaded V-Squat",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-plate-loaded-v-squat-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-plate-loaded-v-squat"
+  },
+  {
+    "name": "Рычажный присед",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Квадрицепс",
+      "Ягодичные мышцы"
+    ],
+    "description": "Приседание с сопротивлением рычажного механизма.",
+    "recognition": "Платформа для ног и нагружаемый рычаг с опорой для корпуса или плеч.",
+    "category": "Силовые",
+    "id": "matrix-vy-400-02",
+    "brand": "Matrix",
+    "model": "Magnum VY Perfect Squat (VY-400-02)",
+    "exerciseSlugs": [],
+    "image": "/equipment/matrix-vy-400-02-v1.webp",
+    "sourceUrl": "https://cpo.matrixfitness.com/products/strength/magnum/magnum-vy-perfect-squat-iced-silver-premium-red-pads-2/"
+  },
+  {
+    "name": "Сведение / разведение ног",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Приводящие мышцы бедра",
+      "Средняя ягодичная"
+    ],
+    "description": "Два движения для бёдер: сведение и разведение ног.",
+    "recognition": "Поворотные упоры для ног перестраиваются под два направления движения.",
+    "category": "Силовые",
+    "id": "axiom-series-hip-abductor-adductor",
+    "brand": "Life Fitness",
+    "model": "Axiom Series Hip Abductor / Adductor",
+    "exerciseSlugs": [],
+    "image": "/equipment/axiom-series-hip-abductor-adductor-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/axiom-series-hip-abductor-adductor"
+  },
+  {
+    "name": "Сведение ног",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Приводящие мышцы бедра"
+    ],
+    "description": "Приведение бёдер к центру против сопротивления.",
+    "recognition": "Мягкие упоры располагаются с внутренней стороны бёдер.",
+    "category": "Силовые",
+    "id": "hammer-strength-select-hip-adduction",
+    "brand": "Hammer Strength",
+    "model": "Select Hip Adduction",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-select-hip-adduction-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-select-hip-adduction"
+  },
+  {
+    "name": "Сведение ног",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Приводящие мышцы бедра"
+    ],
+    "description": "Приведение бёдер к центру против сопротивления.",
+    "recognition": "Мягкие упоры располагаются с внутренней стороны бёдер.",
+    "category": "Силовые",
+    "id": "insignia-series-hip-adduction",
+    "brand": "Life Fitness",
+    "model": "Insignia Series Hip Adduction",
+    "exerciseSlugs": [],
+    "image": "/equipment/insignia-series-hip-adduction-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/insignia-series-hip-adduction"
+  },
+  {
+    "name": "Сведение ног",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Приводящие мышцы бедра"
+    ],
+    "description": "Приведение бёдер к центру против сопротивления.",
+    "recognition": "Мягкие упоры располагаются с внутренней стороны бёдер.",
+    "category": "Силовые",
+    "id": "matrix-g3-s74",
+    "brand": "Matrix",
+    "model": "Aura Hip Adductor (G3-S74)",
+    "exerciseSlugs": [],
+    "image": "/equipment/matrix-g3-s74-v1.webp",
+    "sourceUrl": "https://cpo.matrixfitness.com/products/strength/aura/aura-hip-adductor-lace-white-black-pads-4/"
+  },
+  {
+    "name": "Сведение ног",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Приводящие мышцы бедра"
+    ],
+    "description": "Приведение бёдер к центру против сопротивления.",
+    "recognition": "Мягкие упоры располагаются с внутренней стороны бёдер.",
+    "category": "Силовые",
+    "id": "matrix-g7-s74b",
+    "brand": "Matrix",
+    "model": "Ultra Hip Adductor (G7-S74B)",
+    "exerciseSlugs": [],
+    "image": "/equipment/matrix-g7-s74b-v1.webp",
+    "sourceUrl": "https://cpo.matrixfitness.com/products/strength/ultra/ultra-base-trim-light-stack-hip-adductor-iced-silver-black-pads/"
+  },
+  {
+    "name": "Сгибание / разгибание ног",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Квадрицепс",
+      "Мышцы задней поверхности бедра"
+    ],
+    "description": "Один тренажёр для сгибания и разгибания коленей.",
+    "recognition": "Перестраиваемый валик для голеней и настройки под два движения.",
+    "category": "Силовые",
+    "id": "axiom-series-leg-curl-extension",
+    "brand": "Life Fitness",
+    "model": "Axiom Series Leg Curl / Extension",
+    "exerciseSlugs": [],
+    "image": "/equipment/axiom-series-leg-curl-extension-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/axiom-series-leg-curl-extension"
+  },
+  {
+    "name": "Сгибание / разгибание ног",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Квадрицепс",
+      "Мышцы задней поверхности бедра"
+    ],
+    "description": "Один тренажёр для сгибания и разгибания коленей.",
+    "recognition": "Перестраиваемый валик для голеней и настройки под два движения.",
+    "category": "Силовые",
+    "id": "axiom-series-seated-leg-curl-extension",
+    "brand": "Life Fitness",
+    "model": "Axiom Series Seated Leg Curl / Extension",
+    "exerciseSlugs": [],
+    "image": "/equipment/axiom-series-seated-leg-curl-extension-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/axiom-series-seated-leg-curl-extension"
+  },
+  {
+    "name": "Сгибание ног лёжа",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Мышцы задней поверхности бедра"
+    ],
+    "description": "Сгибание коленей лёжа животом на опоре.",
+    "recognition": "Длинная опора для положения лёжа и валик у задней поверхности голеней.",
+    "category": "Силовые",
+    "id": "hammer-strength-plate-loaded-iso-lateral-leg-curl",
+    "brand": "Hammer Strength",
+    "model": "Plate Loaded Iso-Lateral Leg Curl",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-plate-loaded-iso-lateral-leg-curl-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-plate-loaded-iso-lateral-leg-curl"
+  },
+  {
+    "name": "Сгибание ног лёжа",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Мышцы задней поверхности бедра"
+    ],
+    "description": "Сгибание коленей лёжа животом на опоре.",
+    "recognition": "Длинная опора для положения лёжа и валик у задней поверхности голеней.",
+    "category": "Силовые",
+    "id": "hammer-strength-select-leg-curl",
+    "brand": "Hammer Strength",
+    "model": "Select Leg Curl",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-select-leg-curl-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-select-leg-curl"
+  },
+  {
+    "name": "Сгибание ног лёжа",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Мышцы задней поверхности бедра"
+    ],
+    "description": "Сгибание коленей лёжа животом на опоре.",
+    "recognition": "Длинная опора для положения лёжа и валик у задней поверхности голеней.",
+    "category": "Силовые",
+    "id": "axiom-series-leg-curl",
+    "brand": "Life Fitness",
+    "model": "Axiom Series Leg Curl",
+    "exerciseSlugs": [],
+    "image": "/equipment/axiom-series-leg-curl-v1.webp",
+    "sourceUrl": "https://www.lifefitness.com.au/commercial/axiom-series-leg-curl"
+  },
+  {
+    "name": "Сгибание ног лёжа",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Мышцы задней поверхности бедра"
+    ],
+    "description": "Сгибание коленей лёжа животом на опоре.",
+    "recognition": "Длинная опора для положения лёжа и валик у задней поверхности голеней.",
+    "category": "Силовые",
+    "id": "matrix-g3-s73",
+    "brand": "Matrix",
+    "model": "Aura Prone Leg Curl (G3-S73)",
+    "exerciseSlugs": [],
+    "image": "/equipment/matrix-g3-s73-v1.webp",
+    "sourceUrl": "https://cpo.matrixfitness.com/products/strength/aura/aura-prone-leg-curl-lace-white-black-pads-3/"
+  },
+  {
+    "name": "Сгибание ног сидя",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Мышцы задней поверхности бедра"
+    ],
+    "description": "Сгибание коленей сидя с фиксацией бёдер.",
+    "recognition": "Сиденье со спинкой, верхний фиксатор бёдер и нижний подвижный валик.",
+    "category": "Силовые",
+    "id": "hammer-strength-select-seated-leg-curl",
+    "brand": "Hammer Strength",
+    "model": "Select Seated Leg Curl",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-select-seated-leg-curl-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-select-seated-leg-curl"
+  },
+  {
+    "name": "Сгибание ног сидя",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Мышцы задней поверхности бедра"
+    ],
+    "description": "Сгибание коленей сидя с фиксацией бёдер.",
+    "recognition": "Сиденье со спинкой, верхний фиксатор бёдер и нижний подвижный валик.",
+    "category": "Силовые",
+    "id": "insignia-series-seated-leg-curl",
+    "brand": "Life Fitness",
+    "model": "Insignia Series Seated Leg Curl",
+    "exerciseSlugs": [],
+    "image": "/equipment/insignia-series-seated-leg-curl-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/insignia-series-seated-leg-curl"
+  },
+  {
+    "name": "Сгибание ног сидя",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Мышцы задней поверхности бедра"
+    ],
+    "description": "Сгибание коленей сидя с фиксацией бёдер.",
+    "recognition": "Сиденье со спинкой, верхний фиксатор бёдер и нижний подвижный валик.",
+    "category": "Силовые",
+    "id": "matrix-g3-s72",
+    "brand": "Matrix",
+    "model": "Aura Seated Leg Curl (G3-S72)",
+    "exerciseSlugs": [],
+    "image": "/equipment/matrix-g3-s72-v1.webp",
+    "sourceUrl": "https://cpo.matrixfitness.com/products/strength/aura/aura-seated-leg-curl-lace-white-black-pads-2/"
+  },
+  {
+    "name": "Сгибание ноги стоя на колене",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Мышцы задней поверхности бедра"
+    ],
+    "description": "Поочерёдное сгибание ноги с опорой другой ногой на коленную подушку.",
+    "recognition": "Небольшая площадка для колена, опора корпуса и отдельный рабочий валик.",
+    "category": "Силовые",
+    "id": "hammer-strength-mts-kneeling-leg-curl",
+    "brand": "Hammer Strength",
+    "model": "MTS Kneeling Leg Curl",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-mts-kneeling-leg-curl-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-mts-kneeling-leg-curl"
+  },
+  {
+    "name": "Сгибание ноги стоя на колене",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Мышцы задней поверхности бедра"
+    ],
+    "description": "Поочерёдное сгибание ноги с опорой другой ногой на коленную подушку.",
+    "recognition": "Небольшая площадка для колена, опора корпуса и отдельный рабочий валик.",
+    "category": "Силовые",
+    "id": "hammer-strength-plate-loaded-iso-lateral-kneeling-leg-curl",
+    "brand": "Hammer Strength",
+    "model": "Plate Loaded Iso-Lateral Kneeling Leg Curl",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-plate-loaded-iso-lateral-kneeling-leg-curl-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-plate-loaded-iso-lateral-kneeling-leg-curl"
+  },
+  {
+    "name": "Сгибание рук на бицепс",
+    "groups": [
+      "Руки"
+    ],
+    "muscles": [
+      "Бицепс",
+      "Плечевая мышца"
+    ],
+    "description": "Сгибание рук с опорой на тренажёр для бицепса.",
+    "recognition": "Наклонная подушка перед сиденьем и рукояти для сгибания рук.",
+    "category": "Силовые",
+    "id": "hammer-strength-mts-iso-lateral-biceps-curl",
+    "brand": "Hammer Strength",
+    "model": "MTS Iso-Lateral Biceps Curl",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-mts-iso-lateral-biceps-curl-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-mts-iso-lateral-biceps-curl"
+  },
+  {
+    "name": "Сгибание рук на бицепс",
+    "groups": [
+      "Руки"
+    ],
+    "muscles": [
+      "Бицепс",
+      "Плечевая мышца"
+    ],
+    "description": "Сгибание рук с опорой на тренажёр для бицепса.",
+    "recognition": "Наклонная подушка перед сиденьем и рукояти для сгибания рук.",
+    "category": "Силовые",
+    "id": "hammer-strength-plate-loaded-seated-biceps",
+    "brand": "Hammer Strength",
+    "model": "Plate Loaded Seated Biceps",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-plate-loaded-seated-biceps-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-plate-loaded-seated-biceps"
+  },
+  {
+    "name": "Сгибание рук на бицепс",
+    "groups": [
+      "Руки"
+    ],
+    "muscles": [
+      "Бицепс",
+      "Плечевая мышца"
+    ],
+    "description": "Сгибание рук с опорой на тренажёр для бицепса.",
+    "recognition": "Наклонная подушка перед сиденьем и рукояти для сгибания рук.",
+    "category": "Силовые",
+    "id": "hammer-strength-select-biceps-curl",
+    "brand": "Hammer Strength",
+    "model": "Select Biceps Curl",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-select-biceps-curl-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-select-biceps-curl"
+  },
+  {
+    "name": "Сгибание рук на бицепс",
+    "groups": [
+      "Руки"
+    ],
+    "muscles": [
+      "Бицепс",
+      "Плечевая мышца"
+    ],
+    "description": "Сгибание рук с опорой на тренажёр для бицепса.",
+    "recognition": "Наклонная подушка перед сиденьем и рукояти для сгибания рук.",
+    "category": "Силовые",
+    "id": "axiom-series-biceps-curl",
+    "brand": "Life Fitness",
+    "model": "Axiom Series Biceps Curl",
+    "exerciseSlugs": [],
+    "image": "/equipment/axiom-series-biceps-curl-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/axiom-series-biceps-curl"
+  },
+  {
+    "name": "Сгибание рук на бицепс",
+    "groups": [
+      "Руки"
+    ],
+    "muscles": [
+      "Бицепс",
+      "Плечевая мышца"
+    ],
+    "description": "Сгибание рук с опорой на тренажёр для бицепса.",
+    "recognition": "Наклонная подушка перед сиденьем и рукояти для сгибания рук.",
+    "category": "Силовые",
+    "id": "insignia-series-biceps-curl",
+    "brand": "Life Fitness",
+    "model": "Insignia Series Biceps Curl",
+    "exerciseSlugs": [],
+    "image": "/equipment/insignia-series-biceps-curl-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/insignia-series-biceps-curl"
+  },
+  {
+    "name": "Сгибание рук на бицепс",
+    "groups": [
+      "Руки"
+    ],
+    "muscles": [
+      "Бицепс",
+      "Плечевая мышца"
+    ],
+    "description": "Сгибание рук с опорой на тренажёр для бицепса.",
+    "recognition": "Наклонная подушка перед сиденьем и рукояти для сгибания рук.",
+    "category": "Силовые",
+    "id": "insignia-series-biceps-curl-dependent",
+    "brand": "Life Fitness",
+    "model": "Insignia Series Biceps Curl - Dependent",
+    "exerciseSlugs": [],
+    "image": "/equipment/insignia-series-biceps-curl-dependent-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/insignia-series-biceps-curl-dependent"
+  },
+  {
+    "name": "Сгибание рук на бицепс",
+    "groups": [
+      "Руки"
+    ],
+    "muscles": [
+      "Бицепс",
+      "Плечевая мышца"
+    ],
+    "description": "Сгибание рук с опорой на тренажёр для бицепса.",
+    "recognition": "Наклонная подушка перед сиденьем и рукояти для сгибания рук.",
+    "category": "Силовые",
+    "id": "matrix-g3-s40",
+    "brand": "Matrix",
+    "model": "Aura Arm Curl (G3-S40)",
+    "exerciseSlugs": [],
+    "image": "/equipment/matrix-g3-s40-v1.webp",
+    "sourceUrl": "https://cpo.matrixfitness.com/products/strength/aura/aura-arm-curl-lace-white-black-pads-3/"
+  },
+  {
+    "name": "Сгибание рук на бицепс",
+    "groups": [
+      "Руки"
+    ],
+    "muscles": [
+      "Бицепс",
+      "Плечевая мышца"
+    ],
+    "description": "Сгибание рук с опорой на тренажёр для бицепса.",
+    "recognition": "Наклонная подушка перед сиденьем и рукояти для сгибания рук.",
+    "category": "Силовые",
+    "id": "matrix-g7-s41b",
+    "brand": "Matrix",
+    "model": "Ultra Dependent Arm Curl (G7-S41B)",
+    "exerciseSlugs": [],
+    "image": "/equipment/matrix-g7-s41b-v1.webp",
+    "sourceUrl": "https://cpo.matrixfitness.com/products/strength/ultra/ultra-base-trim-light-stack-dependent-arm-curl-iced-silver-black-pads/"
+  },
+  {
+    "name": "Сгибание рук на бицепс",
+    "groups": [
+      "Руки"
+    ],
+    "muscles": [
+      "Бицепс",
+      "Плечевая мышца"
+    ],
+    "description": "Сгибание рук с опорой на тренажёр для бицепса.",
+    "recognition": "Наклонная подушка перед сиденьем и рукояти для сгибания рук.",
+    "category": "Силовые",
+    "id": "matrix-g7-s40b",
+    "brand": "Matrix",
+    "model": "Ultra Independent Biceps Curl (G7-S40B)",
+    "exerciseSlugs": [],
+    "image": "/equipment/matrix-g7-s40b-v1.webp",
+    "sourceUrl": "https://cpo.matrixfitness.com/products/strength/ultra/ultra-base-trim-light-stack-independent-biceps-curl-iced-silver-black-pads/"
+  },
+  {
+    "name": "Сгибания Nordic с поддержкой",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Мышцы задней поверхности бедра"
+    ],
+    "description": "Сгибания Nordic с регулируемой помощью механизма.",
+    "recognition": "Опора под колени, фиксаторы голеней и механизм поддержки корпуса.",
+    "category": "Силовые",
+    "id": "hammer-strength-assisted-nordic-ham",
+    "brand": "Hammer Strength",
+    "model": "Assisted Nordic Ham",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-assisted-nordic-ham-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-assisted-nordic-ham"
+  },
+  {
+    "name": "Скручивания на пресс",
+    "groups": [
+      "Корпус"
+    ],
+    "muscles": [
+      "Прямая мышца живота"
+    ],
+    "description": "Сгибание корпуса с сопротивлением для мышц живота.",
+    "recognition": "Сиденье и подвижный рычаг для скручивания корпуса.",
+    "category": "Силовые",
+    "id": "hammer-strength-mts-abdominal-crunch",
+    "brand": "Hammer Strength",
+    "model": "MTS Abdominal Crunch",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-mts-abdominal-crunch-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-mts-abdominal-crunch"
+  },
+  {
+    "name": "Скручивания на пресс",
+    "groups": [
+      "Корпус"
+    ],
+    "muscles": [
+      "Прямая мышца живота"
+    ],
+    "description": "Сгибание корпуса с сопротивлением для мышц живота.",
+    "recognition": "Сиденье и подвижный рычаг для скручивания корпуса.",
+    "category": "Силовые",
+    "id": "hammer-strength-select-abdominal-crunch",
+    "brand": "Hammer Strength",
+    "model": "Select Abdominal Crunch",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-select-abdominal-crunch-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-select-abdominal-crunch"
+  },
+  {
+    "name": "Скручивания на пресс",
+    "groups": [
+      "Корпус"
+    ],
+    "muscles": [
+      "Прямая мышца живота"
+    ],
+    "description": "Сгибание корпуса с сопротивлением для мышц живота.",
+    "recognition": "Сиденье и подвижный рычаг для скручивания корпуса.",
+    "category": "Силовые",
+    "id": "axiom-series-abdominal",
+    "brand": "Life Fitness",
+    "model": "Axiom Series Abdominal",
+    "exerciseSlugs": [],
+    "image": "/equipment/axiom-series-abdominal-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/axiom-series-abdominal"
+  },
+  {
+    "name": "Скручивания на пресс",
+    "groups": [
+      "Корпус"
+    ],
+    "muscles": [
+      "Прямая мышца живота"
+    ],
+    "description": "Сгибание корпуса с сопротивлением для мышц живота.",
+    "recognition": "Сиденье и подвижный рычаг для скручивания корпуса.",
+    "category": "Силовые",
+    "id": "insignia-series-abdominal",
+    "brand": "Life Fitness",
+    "model": "Insignia Series Abdominal",
+    "exerciseSlugs": [],
+    "image": "/equipment/insignia-series-abdominal-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/insignia-series-abdominal"
+  },
+  {
+    "name": "Скручивания на пресс",
+    "groups": [
+      "Корпус"
+    ],
+    "muscles": [
+      "Прямая мышца живота"
+    ],
+    "description": "Сгибание корпуса с сопротивлением для мышц живота.",
+    "recognition": "Сиденье и подвижный рычаг для скручивания корпуса.",
+    "category": "Силовые",
+    "id": "insignia-series-abdominal-advanced",
+    "brand": "Life Fitness",
+    "model": "Insignia Series Abdominal Advanced",
+    "exerciseSlugs": [],
+    "image": "/equipment/insignia-series-abdominal-advanced-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/insignia-series-abdominal-advanced"
+  },
+  {
+    "name": "Скручивания на пресс",
+    "groups": [
+      "Корпус"
+    ],
+    "muscles": [
+      "Прямая мышца живота"
+    ],
+    "description": "Сгибание корпуса с сопротивлением для мышц живота.",
+    "recognition": "Сиденье и подвижный рычаг для скручивания корпуса.",
+    "category": "Силовые",
+    "id": "matrix-g3-s51",
+    "brand": "Matrix",
+    "model": "Aura Abdominal Crunch (G3-S51)",
+    "exerciseSlugs": [],
+    "image": "/equipment/matrix-g3-s51-v1.webp",
+    "sourceUrl": "https://cpo.matrixfitness.com/products/strength/aura/aura-ab-crunch-lace-white-black-pads/"
+  },
+  {
+    "name": "Скручивания на пресс",
+    "groups": [
+      "Корпус"
+    ],
+    "muscles": [
+      "Прямая мышца живота"
+    ],
+    "description": "Сгибание корпуса с сопротивлением для мышц живота.",
+    "recognition": "Сиденье и подвижный рычаг для скручивания корпуса.",
+    "category": "Силовые",
+    "id": "matrix-go-s53",
+    "brand": "Matrix",
+    "model": "GO Abdominal (GO-S53)",
+    "exerciseSlugs": [],
+    "image": "/equipment/matrix-go-s53-v1.webp",
+    "sourceUrl": "https://cpo.matrixfitness.com/products/strength/go/matrix-go-abdominal-black-pads-iced-silver-black-pads-refurbished/"
+  },
+  {
+    "name": "Тренажёр для хвата",
+    "groups": [
+      "Руки"
+    ],
+    "muscles": [
+      "Сгибатели пальцев",
+      "Мышцы предплечья"
+    ],
+    "description": "Сжатие рукоятей с регулируемой дисками нагрузкой.",
+    "recognition": "Компактная рама с парными рукоятями для сжатия кистью.",
+    "category": "Силовые",
+    "id": "hammer-strength-plate-loaded-gripper",
+    "brand": "Hammer Strength",
+    "model": "Plate Loaded Gripper",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-plate-loaded-gripper-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-plate-loaded-gripper"
+  },
+  {
+    "name": "Тренажёр для шеи",
+    "groups": [
+      "Шея"
+    ],
+    "muscles": [
+      "Мышцы шеи"
+    ],
+    "description": "Сопротивление движениям головы в четырёх направлениях.",
+    "recognition": "Сиденье и мягкие упоры вокруг головы.",
+    "category": "Силовые",
+    "id": "hammer-strength-plate-loaded-4-way-neck",
+    "brand": "Hammer Strength",
+    "model": "Plate Loaded 4 Way Neck",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-plate-loaded-4-way-neck-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-plate-loaded-4-way-neck"
+  },
+  {
+    "name": "Тяга сверху под углом",
+    "groups": [
+      "Спина",
+      "Руки"
+    ],
+    "muscles": [
+      "Широчайшие",
+      "Ромбовидные",
+      "Бицепс"
+    ],
+    "description": "Рычажная тяга по диагонали сверху к корпусу.",
+    "recognition": "Рычаги с рукоятями расположены выше сиденья и движутся вниз и назад.",
+    "category": "Силовые",
+    "id": "hammer-strength-iso-lateral-high-row",
+    "brand": "Hammer Strength",
+    "model": "Iso-Lateral High Row",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-iso-lateral-high-row-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-iso-lateral-high-row"
+  },
+  {
+    "name": "Тяга сверху под углом",
+    "groups": [
+      "Спина",
+      "Руки"
+    ],
+    "muscles": [
+      "Широчайшие",
+      "Ромбовидные",
+      "Бицепс"
+    ],
+    "description": "Рычажная тяга по диагонали сверху к корпусу.",
+    "recognition": "Рычаги с рукоятями расположены выше сиденья и движутся вниз и назад.",
+    "category": "Силовые",
+    "id": "hammer-strength-mts-iso-lateral-high-row",
+    "brand": "Hammer Strength",
+    "model": "MTS Iso-Lateral High Row",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-mts-iso-lateral-high-row-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-mts-iso-lateral-high-row"
+  },
+  {
+    "name": "Тяга Т-грифа",
+    "groups": [
+      "Спина",
+      "Руки"
+    ],
+    "muscles": [
+      "Широчайшие",
+      "Ромбовидные",
+      "Бицепс"
+    ],
+    "description": "Тяга нагружаемого дисками рычага к корпусу.",
+    "recognition": "Длинный рычаг с рукоятями и местом для дисков; опора помогает удерживать корпус.",
+    "category": "Силовые",
+    "id": "hammer-strength-plate-loaded-t-bar-row",
+    "brand": "Hammer Strength",
+    "model": "Plate Loaded T-Bar Row",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-plate-loaded-t-bar-row-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-plate-loaded-t-bar-row"
+  },
+  {
+    "name": "Шраги",
+    "groups": [
+      "Спина"
+    ],
+    "muscles": [
+      "Трапециевидная"
+    ],
+    "description": "Подъём плеч с сопротивлением нагружаемых рычагов.",
+    "recognition": "Низкие рукояти по сторонам корпуса, предназначенные для подъёма плеч.",
+    "category": "Силовые",
+    "id": "hammer-strength-plate-loaded-seated-standing-shrug",
+    "brand": "Hammer Strength",
+    "model": "Plate Loaded Seated/Standing Shrug",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-plate-loaded-seated-standing-shrug-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-plate-loaded-seated-standing-shrug"
+  },
+  {
+    "name": "Ягодичный мост",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Большая ягодичная",
+      "Мышцы задней поверхности бедра"
+    ],
+    "description": "Разгибание бёдер с опорой спиной и сопротивлением в области таза.",
+    "recognition": "Низкая спинка, платформа для стоп и пояс или рычаг поверх таза.",
+    "category": "Силовые",
+    "id": "hammer-strength-plate-loaded-glute-drive",
+    "brand": "Hammer Strength",
+    "model": "Plate Loaded Glute Drive",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-plate-loaded-glute-drive-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-plate-loaded-glute-drive"
+  },
+  {
+    "name": "Ягодичный мост",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Большая ягодичная",
+      "Мышцы задней поверхности бедра"
+    ],
+    "description": "Разгибание бёдер с опорой спиной и сопротивлением в области таза.",
+    "recognition": "Низкая спинка, платформа для стоп и пояс или рычаг поверх таза.",
+    "category": "Силовые",
+    "id": "insignia-series-glute-bridge",
+    "brand": "Life Fitness",
+    "model": "Insignia Series Glute Bridge",
+    "exerciseSlugs": [],
+    "image": "/equipment/insignia-series-glute-bridge-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/insignia-series-glute-bridge"
+  },
+  {
+    "name": "Ягодичный мост",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Большая ягодичная",
+      "Мышцы задней поверхности бедра"
+    ],
+    "description": "Разгибание бёдер с опорой спиной и сопротивлением в области таза.",
+    "recognition": "Низкая спинка, платформа для стоп и пояс или рычаг поверх таза.",
+    "category": "Силовые",
+    "id": "matrix-mg-pl78",
+    "brand": "Matrix",
+    "model": "Magnum Glute Trainer (MG-PL78)",
+    "exerciseSlugs": [],
+    "image": "/equipment/matrix-mg-pl78-v1.webp",
+    "sourceUrl": "https://cpo.matrixfitness.com/products/strength/magnum/matrix-magnum-glute-trainer-iced-silver-black-pads-refurbished-7/"
+  },
+  {
+    "name": "Аэробайк",
+    "groups": [
+      "Ноги",
+      "Руки",
+      "Корпус"
+    ],
+    "muscles": [
+      "Мышцы ног",
+      "Мышцы рук",
+      "Мышцы корпуса"
+    ],
+    "description": "Педалирование и работа подвижными рукоятями с воздушным сопротивлением.",
+    "recognition": "Большой вентилятор вместо обычного маховика и две подвижные рукояти.",
+    "category": "Кардио",
+    "id": "hammer-strength-hd-air-bike",
+    "brand": "Hammer Strength",
+    "model": "HD Air Bike",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-hd-air-bike-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-hd-air-bike"
+  },
+  {
+    "name": "Беговая дорожка",
+    "groups": [
+      "Ноги",
+      "Корпус"
+    ],
+    "muscles": [
+      "Мышцы ног",
+      "Мышцы корпуса"
+    ],
+    "description": "Ходьба и бег на движущемся полотне для развития выносливости.",
+    "recognition": "Продольное беговое полотно, поручни и передняя консоль.",
+    "category": "Кардио",
+    "id": "atmos-treadmill-home-edition",
+    "brand": "Life Fitness",
+    "model": "Atmos Treadmill Home Edition",
+    "exerciseSlugs": [],
+    "image": "/equipment/atmos-treadmill-home-edition-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/atmos-treadmill-home-edition"
+  },
+  {
+    "name": "Беговая дорожка",
+    "groups": [
+      "Ноги",
+      "Корпус"
+    ],
+    "muscles": [
+      "Мышцы ног",
+      "Мышцы корпуса"
+    ],
+    "description": "Ходьба и бег на движущемся полотне для развития выносливости.",
+    "recognition": "Продольное беговое полотно, поручни и передняя консоль.",
+    "category": "Кардио",
+    "id": "club-series-plus-treadmill",
+    "brand": "Life Fitness",
+    "model": "Club Series+ Treadmill",
+    "exerciseSlugs": [],
+    "image": "/equipment/club-series-plus-treadmill-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/club-series-plus-treadmill"
+  },
+  {
+    "name": "Беговая дорожка",
+    "groups": [
+      "Ноги",
+      "Корпус"
+    ],
+    "muscles": [
+      "Мышцы ног",
+      "Мышцы корпуса"
+    ],
+    "description": "Ходьба и бег на движущемся полотне для развития выносливости.",
+    "recognition": "Продольное беговое полотно, поручни и передняя консоль.",
+    "category": "Кардио",
+    "id": "f3-folding-treadmill",
+    "brand": "Life Fitness",
+    "model": "F3 Folding Treadmill",
+    "exerciseSlugs": [],
+    "image": "/equipment/f3-folding-treadmill-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/f3-folding-treadmill"
+  },
+  {
+    "name": "Беговая дорожка",
+    "groups": [
+      "Ноги",
+      "Корпус"
+    ],
+    "muscles": [
+      "Мышцы ног",
+      "Мышцы корпуса"
+    ],
+    "description": "Ходьба и бег на движущемся полотне для развития выносливости.",
+    "recognition": "Продольное беговое полотно, поручни и передняя консоль.",
+    "category": "Кардио",
+    "id": "run-cx-treadmill",
+    "brand": "Life Fitness",
+    "model": "Run CX",
+    "exerciseSlugs": [],
+    "image": "/equipment/run-cx-treadmill-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/run-cx-treadmill"
+  },
+  {
+    "name": "Беговая дорожка",
+    "groups": [
+      "Ноги",
+      "Корпус"
+    ],
+    "muscles": [
+      "Мышцы ног",
+      "Мышцы корпуса"
+    ],
+    "description": "Ходьба и бег на движущемся полотне для развития выносливости.",
+    "recognition": "Продольное беговое полотно, поручни и передняя консоль.",
+    "category": "Кардио",
+    "id": "symbio-runner",
+    "brand": "Life Fitness",
+    "model": "Symbio Runner Home Edition",
+    "exerciseSlugs": [],
+    "image": "/equipment/symbio-runner-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/symbio-runner"
+  },
+  {
+    "name": "Беговая дорожка",
+    "groups": [
+      "Ноги",
+      "Корпус"
+    ],
+    "muscles": [
+      "Мышцы ног",
+      "Мышцы корпуса"
+    ],
+    "description": "Ходьба и бег на движущемся полотне для развития выносливости.",
+    "recognition": "Продольное беговое полотно, поручни и передняя консоль.",
+    "category": "Кардио",
+    "id": "t3-treadmill",
+    "brand": "Life Fitness",
+    "model": "T3 Treadmill",
+    "exerciseSlugs": [],
+    "image": "/equipment/t3-treadmill-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/t3-treadmill"
+  },
+  {
+    "name": "Вертикальный велотренажёр",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Квадрицепс",
+      "Ягодичные мышцы",
+      "Мышцы голени"
+    ],
+    "description": "Педалирование с вертикальной посадкой для кардиотренировок.",
+    "recognition": "Седло над педалями, руль и консоль перед пользователем.",
+    "category": "Кардио",
+    "id": "atmos-upright-bike-home-edition",
+    "brand": "Life Fitness",
+    "model": "Atmos Upright Bike Home Edition",
+    "exerciseSlugs": [],
+    "image": "/equipment/atmos-upright-bike-home-edition-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/atmos-upright-bike-home-edition"
+  },
+  {
+    "name": "Вертикальный велотренажёр",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Квадрицепс",
+      "Ягодичные мышцы",
+      "Мышцы голени"
+    ],
+    "description": "Педалирование с вертикальной посадкой для кардиотренировок.",
+    "recognition": "Седло над педалями, руль и консоль перед пользователем.",
+    "category": "Кардио",
+    "id": "c1-lifecycle-exercise-bike",
+    "brand": "Life Fitness",
+    "model": "C1 Lifecycle Exercise Bike",
+    "exerciseSlugs": [],
+    "image": "/equipment/c1-lifecycle-exercise-bike-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/c1-lifecycle-exercise-bike"
+  },
+  {
+    "name": "Вертикальный велотренажёр",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Квадрицепс",
+      "Ягодичные мышцы",
+      "Мышцы голени"
+    ],
+    "description": "Педалирование с вертикальной посадкой для кардиотренировок.",
+    "recognition": "Седло над педалями, руль и консоль перед пользователем.",
+    "category": "Кардио",
+    "id": "c3-lifecycle-exercise-bike",
+    "brand": "Life Fitness",
+    "model": "C3 Lifecycle Exercise Bike",
+    "exerciseSlugs": [],
+    "image": "/equipment/c3-lifecycle-exercise-bike-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/c3-lifecycle-exercise-bike"
+  },
+  {
+    "name": "Вертикальный велотренажёр",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Квадрицепс",
+      "Ягодичные мышцы",
+      "Мышцы голени"
+    ],
+    "description": "Педалирование с вертикальной посадкой для кардиотренировок.",
+    "recognition": "Седло над педалями, руль и консоль перед пользователем.",
+    "category": "Кардио",
+    "id": "club-series-plus-upright-lifecycle-bike",
+    "brand": "Life Fitness",
+    "model": "Club Series+ Upright Lifecycle Bike",
+    "exerciseSlugs": [],
+    "image": "/equipment/club-series-plus-upright-lifecycle-bike-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/club-series-plus-upright-lifecycle-bike"
+  },
+  {
+    "name": "Горизонтальный велотренажёр",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Квадрицепс",
+      "Ягодичные мышцы",
+      "Мышцы голени"
+    ],
+    "description": "Педалирование сидя с опорой спиной и вынесенными вперёд педалями.",
+    "recognition": "Широкое сиденье со спинкой; педали расположены впереди него.",
+    "category": "Кардио",
+    "id": "atmos-recumbent-bike-home-edition",
+    "brand": "Life Fitness",
+    "model": "Atmos Recumbent Bike Home Edition",
+    "exerciseSlugs": [],
+    "image": "/equipment/atmos-recumbent-bike-home-edition-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/atmos-recumbent-bike-home-edition"
+  },
+  {
+    "name": "Горизонтальный велотренажёр",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Квадрицепс",
+      "Ягодичные мышцы",
+      "Мышцы голени"
+    ],
+    "description": "Педалирование сидя с опорой спиной и вынесенными вперёд педалями.",
+    "recognition": "Широкое сиденье со спинкой; педали расположены впереди него.",
+    "category": "Кардио",
+    "id": "club-series-recumbent",
+    "brand": "Life Fitness",
+    "model": "Club Series+ Recumbent Lifecycle Bike",
+    "exerciseSlugs": [],
+    "image": "/equipment/club-series-recumbent-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/club-series-recumbent"
+  },
+  {
+    "name": "Горизонтальный велотренажёр",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Квадрицепс",
+      "Ягодичные мышцы",
+      "Мышцы голени"
+    ],
+    "description": "Педалирование сидя с опорой спиной и вынесенными вперёд педалями.",
+    "recognition": "Широкое сиденье со спинкой; педали расположены впереди него.",
+    "category": "Кардио",
+    "id": "rs1-lifecycle-exercise-bike",
+    "brand": "Life Fitness",
+    "model": "RS1 Lifecycle Exercise Bike",
+    "exerciseSlugs": [],
+    "image": "/equipment/rs1-lifecycle-exercise-bike-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/rs1-lifecycle-exercise-bike"
+  },
+  {
+    "name": "Горизонтальный велотренажёр",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Квадрицепс",
+      "Ягодичные мышцы",
+      "Мышцы голени"
+    ],
+    "description": "Педалирование сидя с опорой спиной и вынесенными вперёд педалями.",
+    "recognition": "Широкое сиденье со спинкой; педали расположены впереди него.",
+    "category": "Кардио",
+    "id": "rs3-lifecycle-exercise-bike",
+    "brand": "Life Fitness",
+    "model": "RS3 Lifecycle Exercise Bike",
+    "exerciseSlugs": [],
+    "image": "/equipment/rs3-lifecycle-exercise-bike-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/rs3-lifecycle-exercise-bike"
+  },
+  {
+    "name": "Горизонтальный велотренажёр",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Квадрицепс",
+      "Ягодичные мышцы",
+      "Мышцы голени"
+    ],
+    "description": "Педалирование сидя с опорой спиной и вынесенными вперёд педалями.",
+    "recognition": "Широкое сиденье со спинкой; педали расположены впереди него.",
+    "category": "Кардио",
+    "id": "symbio-recumbent-cycle",
+    "brand": "Life Fitness",
+    "model": "Symbio Recumbent Cycle Home Edition",
+    "exerciseSlugs": [],
+    "image": "/equipment/symbio-recumbent-cycle-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/symbio-recumbent-cycle"
+  },
+  {
+    "name": "Гребной тренажёр",
+    "groups": [
+      "Ноги",
+      "Спина",
+      "Руки",
+      "Корпус"
+    ],
+    "muscles": [
+      "Мышцы ног",
+      "Широчайшие",
+      "Бицепс",
+      "Мышцы корпуса"
+    ],
+    "description": "Гребное движение сочетает толчок ногами и тягу рукояти к корпусу.",
+    "recognition": "Длинная направляющая с подвижным сиденьем, упоры для стоп и тяговая рукоять.",
+    "category": "Кардио",
+    "id": "concept2-rowerg",
+    "brand": "Concept2",
+    "model": "RowErg",
+    "exerciseSlugs": [],
+    "image": "/equipment/concept2-rowerg-v1.webp",
+    "sourceUrl": "https://www.concept2.com/ergs/rowerg"
+  },
+  {
+    "name": "Гребной тренажёр",
+    "groups": [
+      "Ноги",
+      "Спина",
+      "Руки",
+      "Корпус"
+    ],
+    "muscles": [
+      "Мышцы ног",
+      "Широчайшие",
+      "Бицепс",
+      "Мышцы корпуса"
+    ],
+    "description": "Гребное движение сочетает толчок ногами и тягу рукояти к корпусу.",
+    "recognition": "Длинная направляющая с подвижным сиденьем, упоры для стоп и тяговая рукоять.",
+    "category": "Кардио",
+    "id": "heat-row",
+    "brand": "Life Fitness",
+    "model": "Heat Row",
+    "exerciseSlugs": [],
+    "image": "/equipment/heat-row-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/heat-row"
+  },
+  {
+    "name": "Гребной тренажёр",
+    "groups": [
+      "Ноги",
+      "Спина",
+      "Руки",
+      "Корпус"
+    ],
+    "muscles": [
+      "Мышцы ног",
+      "Широчайшие",
+      "Бицепс",
+      "Мышцы корпуса"
+    ],
+    "description": "Гребное движение сочетает толчок ногами и тягу рукояти к корпусу.",
+    "recognition": "Длинная направляющая с подвижным сиденьем, упоры для стоп и тяговая рукоять.",
+    "category": "Кардио",
+    "id": "row-hx-trainer",
+    "brand": "Life Fitness",
+    "model": "Row HX Trainer",
+    "exerciseSlugs": [],
+    "image": "/equipment/row-hx-trainer-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/row-hx-trainer"
+  },
+  {
+    "name": "Дуговой тренажёр",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Квадрицепс",
+      "Ягодичные мышцы",
+      "Мышцы задней поверхности бедра"
+    ],
+    "description": "Кардиотренажёр с дуговой траекторией движения педалей.",
+    "recognition": "Подвесные педальные платформы движутся по дуге, а не вращаются вокруг оси.",
+    "category": "Кардио",
+    "id": "hammer-strength-hd-sparc",
+    "brand": "Hammer Strength",
+    "model": "HD SPARC",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-hd-sparc-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-hd-sparc"
+  },
+  {
+    "name": "Дуговой тренажёр",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Квадрицепс",
+      "Ягодичные мышцы",
+      "Мышцы задней поверхности бедра"
+    ],
+    "description": "Кардиотренажёр с дуговой траекторией движения педалей.",
+    "recognition": "Подвесные педальные платформы движутся по дуге, а не вращаются вокруг оси.",
+    "category": "Кардио",
+    "id": "club-series-total-body-arc-trainer",
+    "brand": "Life Fitness",
+    "model": "Club Series+ Total Body Arc Trainer",
+    "exerciseSlugs": [],
+    "image": "/equipment/club-series-total-body-arc-trainer-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/club-series-total-body-arc-trainer"
+  },
+  {
+    "name": "Дуговой тренажёр",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Квадрицепс",
+      "Ягодичные мышцы",
+      "Мышцы задней поверхности бедра"
+    ],
+    "description": "Кардиотренажёр с дуговой траекторией движения педалей.",
+    "recognition": "Подвесные педальные платформы движутся по дуге, а не вращаются вокруг оси.",
+    "category": "Кардио",
+    "id": "lower-body-arc-trainer",
+    "brand": "Life Fitness",
+    "model": "Lower Body Arc Trainer",
+    "exerciseSlugs": [],
+    "image": "/equipment/lower-body-arc-trainer-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/lower-body-arc-trainer"
+  },
+  {
+    "name": "Лыжный эргометр",
+    "groups": [
+      "Спина",
+      "Руки",
+      "Корпус",
+      "Ноги"
+    ],
+    "muscles": [
+      "Широчайшие",
+      "Трицепс",
+      "Мышцы корпуса",
+      "Мышцы ног"
+    ],
+    "description": "Тяга двух рукоятей сверху вниз имитирует отталкивание лыжными палками.",
+    "recognition": "Высокая вертикальная рама с двумя верхними тросовыми рукоятями.",
+    "category": "Кардио",
+    "id": "concept2-skierg",
+    "brand": "Concept2",
+    "model": "SkiErg",
+    "exerciseSlugs": [],
+    "image": "/equipment/concept2-skierg-v1.webp",
+    "sourceUrl": "https://www.concept2.com/ergs/skierg"
+  },
+  {
+    "name": "Механическая беговая дорожка",
+    "groups": [
+      "Ноги",
+      "Корпус"
+    ],
+    "muscles": [
+      "Мышцы ног",
+      "Мышцы корпуса"
+    ],
+    "description": "Беговое полотно приводится в движение шагами пользователя.",
+    "recognition": "Изогнутое реечное полотно и боковые поручни.",
+    "category": "Кардио",
+    "id": "hammer-strength-hd-tread",
+    "brand": "Hammer Strength",
+    "model": "HD Tread",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-hd-tread-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-hd-tread"
+  },
+  {
+    "name": "Ручной эргометр",
+    "groups": [
+      "Руки",
+      "Плечи",
+      "Грудь",
+      "Спина"
+    ],
+    "muscles": [
+      "Мышцы рук",
+      "Дельтовидные мышцы",
+      "Грудные мышцы",
+      "Мышцы спины"
+    ],
+    "description": "Циклическое вращение рукоятей руками для тренировки верхней части тела.",
+    "recognition": "Рукояти на вращающейся оси расположены на уровне груди.",
+    "category": "Кардио",
+    "id": "pro1-adjustable-upper-body-exerciser",
+    "brand": "SCIFIT",
+    "model": "PRO1 Adjustable Upper Body Exerciser",
+    "exerciseSlugs": [],
+    "image": "/equipment/pro1-adjustable-upper-body-exerciser-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/pro1-adjustable-upper-body-exerciser"
+  },
+  {
+    "name": "Ручной эргометр",
+    "groups": [
+      "Руки",
+      "Плечи",
+      "Грудь",
+      "Спина"
+    ],
+    "muscles": [
+      "Мышцы рук",
+      "Дельтовидные мышцы",
+      "Грудные мышцы",
+      "Мышцы спины"
+    ],
+    "description": "Циклическое вращение рукоятей руками для тренировки верхней части тела.",
+    "recognition": "Рукояти на вращающейся оси расположены на уровне груди.",
+    "category": "Кардио",
+    "id": "pro1000-upper-body-exerciser",
+    "brand": "SCIFIT",
+    "model": "PRO1000 Upper Body Exerciser",
+    "exerciseSlugs": [],
+    "image": "/equipment/pro1000-upper-body-exerciser-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/pro1000-upper-body-exerciser"
+  },
+  {
+    "name": "Сайкл",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Квадрицепс",
+      "Ягодичные мышцы",
+      "Мышцы голени"
+    ],
+    "description": "Велотренажёр для тренировок с велосипедной посадкой.",
+    "recognition": "Узкое седло, регулируемый руль и открытая велосипедная компоновка.",
+    "category": "Кардио",
+    "id": "concept2-bikeerg",
+    "brand": "Concept2",
+    "model": "BikeErg",
+    "exerciseSlugs": [],
+    "image": "/equipment/concept2-bikeerg-v1.webp",
+    "sourceUrl": "https://www.concept2.com/ergs/bikeerg"
+  },
+  {
+    "name": "Сайкл",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Квадрицепс",
+      "Ягодичные мышцы",
+      "Мышцы голени"
+    ],
+    "description": "Велотренажёр для тренировок с велосипедной посадкой.",
+    "recognition": "Узкое седло, регулируемый руль и открытая велосипедная компоновка.",
+    "category": "Кардио",
+    "id": "ic3-indoor-cycle",
+    "brand": "ICG",
+    "model": "IC3 Indoor Cycle",
+    "exerciseSlugs": [],
+    "image": "/equipment/ic3-indoor-cycle-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/ic3-indoor-cycle"
+  },
+  {
+    "name": "Сайкл",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Квадрицепс",
+      "Ягодичные мышцы",
+      "Мышцы голени"
+    ],
+    "description": "Велотренажёр для тренировок с велосипедной посадкой.",
+    "recognition": "Узкое седло, регулируемый руль и открытая велосипедная компоновка.",
+    "category": "Кардио",
+    "id": "ic5-indoor-cycle",
+    "brand": "ICG",
+    "model": "IC5 Indoor Cycle",
+    "exerciseSlugs": [],
+    "image": "/equipment/ic5-indoor-cycle-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/ic5-indoor-cycle"
+  },
+  {
+    "name": "Сайкл",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Квадрицепс",
+      "Ягодичные мышцы",
+      "Мышцы голени"
+    ],
+    "description": "Велотренажёр для тренировок с велосипедной посадкой.",
+    "recognition": "Узкое седло, регулируемый руль и открытая велосипедная компоновка.",
+    "category": "Кардио",
+    "id": "ic6-indoor-cycle",
+    "brand": "ICG",
+    "model": "IC6 Indoor Cycle",
+    "exerciseSlugs": [],
+    "image": "/equipment/ic6-indoor-cycle-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/ic6-indoor-cycle"
+  },
+  {
+    "name": "Сайкл",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Квадрицепс",
+      "Ягодичные мышцы",
+      "Мышцы голени"
+    ],
+    "description": "Велотренажёр для тренировок с велосипедной посадкой.",
+    "recognition": "Узкое седло, регулируемый руль и открытая велосипедная компоновка.",
+    "category": "Кардио",
+    "id": "ic7-indoor-cycle",
+    "brand": "ICG",
+    "model": "IC7 Indoor Cycle",
+    "exerciseSlugs": [],
+    "image": "/equipment/ic7-indoor-cycle-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/ic7-indoor-cycle"
+  },
+  {
+    "name": "Сайкл",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Квадрицепс",
+      "Ягодичные мышцы",
+      "Мышцы голени"
+    ],
+    "description": "Велотренажёр для тренировок с велосипедной посадкой.",
+    "recognition": "Узкое седло, регулируемый руль и открытая велосипедная компоновка.",
+    "category": "Кардио",
+    "id": "symbio-switchcycle",
+    "brand": "Life Fitness",
+    "model": "Symbio SwitchCycle Home Edition",
+    "exerciseSlugs": [],
+    "image": "/equipment/symbio-switchcycle-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/symbio-switchcycle"
+  },
+  {
+    "name": "Сидячий степпер",
+    "groups": [
+      "Ноги",
+      "Руки"
+    ],
+    "muscles": [
+      "Мышцы ног",
+      "Мышцы рук"
+    ],
+    "description": "Попеременные шаговые движения сидя с опорой спиной.",
+    "recognition": "Сиденье со спинкой, две педальные платформы и длинные рукояти.",
+    "category": "Кардио",
+    "id": "stepone-recumbent-stepper-prem-seat-cool-gray",
+    "brand": "SCIFIT",
+    "model": "StepOne Recumbent Stepper",
+    "exerciseSlugs": [],
+    "image": "/equipment/stepone-recumbent-stepper-prem-seat-cool-gray-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/stepone-recumbent-stepper-prem-seat-cool-gray"
+  },
+  {
+    "name": "Степпер",
+    "groups": [
+      "Ноги"
+    ],
+    "muscles": [
+      "Квадрицепс",
+      "Ягодичные мышцы",
+      "Мышцы голени"
+    ],
+    "description": "Попеременное нажатие педалей имитирует подъём по ступеням.",
+    "recognition": "Две независимые педали под консолью и поручни.",
+    "category": "Кардио",
+    "id": "matrix-s-es-led",
+    "brand": "Matrix",
+    "model": "Endurance LED Stepper (S-ES-LED)",
+    "exerciseSlugs": [],
+    "image": "/equipment/matrix-s-es-led-v1.webp",
+    "sourceUrl": "https://cpo.matrixfitness.com/products/cardio/steppers/matrix-endurance-led-stepper-iced-silver-boxed-unit-6/"
+  },
+  {
+    "name": "Эллиптический тренажёр",
+    "groups": [
+      "Ноги",
+      "Руки"
+    ],
+    "muscles": [
+      "Мышцы ног",
+      "Ягодичные мышцы",
+      "Мышцы рук"
+    ],
+    "description": "Циклическое движение ног по эллиптической траектории; подвижные рукояти подключают руки.",
+    "recognition": "Две длинные педальные платформы и высокие рукояти.",
+    "category": "Кардио",
+    "id": "atmos-elliptical-home-edition",
+    "brand": "Life Fitness",
+    "model": "Atmos Elliptical Home Edition",
+    "exerciseSlugs": [],
+    "image": "/equipment/atmos-elliptical-home-edition-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/atmos-elliptical-home-edition"
+  },
+  {
+    "name": "Эллиптический тренажёр",
+    "groups": [
+      "Ноги",
+      "Руки"
+    ],
+    "muscles": [
+      "Мышцы ног",
+      "Ягодичные мышцы",
+      "Мышцы рук"
+    ],
+    "description": "Циклическое движение ног по эллиптической траектории; подвижные рукояти подключают руки.",
+    "recognition": "Две длинные педальные платформы и высокие рукояти.",
+    "category": "Кардио",
+    "id": "club-series-elliptical-cross-trainer",
+    "brand": "Life Fitness",
+    "model": "Club Series+ Elliptical Cross-Trainer",
+    "exerciseSlugs": [],
+    "image": "/equipment/club-series-elliptical-cross-trainer-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/club-series-elliptical-cross-trainer"
+  },
+  {
+    "name": "Эллиптический тренажёр",
+    "groups": [
+      "Ноги",
+      "Руки"
+    ],
+    "muscles": [
+      "Мышцы ног",
+      "Ягодичные мышцы",
+      "Мышцы рук"
+    ],
+    "description": "Циклическое движение ног по эллиптической траектории; подвижные рукояти подключают руки.",
+    "recognition": "Две длинные педальные платформы и высокие рукояти.",
+    "category": "Кардио",
+    "id": "e1-elliptical-cross-trainer",
+    "brand": "Life Fitness",
+    "model": "E1 Elliptical Cross-Trainer",
+    "exerciseSlugs": [],
+    "image": "/equipment/e1-elliptical-cross-trainer-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/e1-elliptical-cross-trainer"
+  },
+  {
+    "name": "Эллиптический тренажёр",
+    "groups": [
+      "Ноги",
+      "Руки"
+    ],
+    "muscles": [
+      "Мышцы ног",
+      "Ягодичные мышцы",
+      "Мышцы рук"
+    ],
+    "description": "Циклическое движение ног по эллиптической траектории; подвижные рукояти подключают руки.",
+    "recognition": "Две длинные педальные платформы и высокие рукояти.",
+    "category": "Кардио",
+    "id": "e3-elliptical-cross-trainer",
+    "brand": "Life Fitness",
+    "model": "E3 Elliptical Cross-Trainer",
+    "exerciseSlugs": [],
+    "image": "/equipment/e3-elliptical-cross-trainer-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/e3-elliptical-cross-trainer"
+  },
+  {
+    "name": "Эллиптический тренажёр",
+    "groups": [
+      "Ноги",
+      "Руки"
+    ],
+    "muscles": [
+      "Мышцы ног",
+      "Ягодичные мышцы",
+      "Мышцы рук"
+    ],
+    "description": "Циклическое движение ног по эллиптической траектории; подвижные рукояти подключают руки.",
+    "recognition": "Две длинные педальные платформы и высокие рукояти.",
+    "category": "Кардио",
+    "id": "e5-elliptical-cross-trainer",
+    "brand": "Life Fitness",
+    "model": "E5 Elliptical Cross-Trainer",
+    "exerciseSlugs": [],
+    "image": "/equipment/e5-elliptical-cross-trainer-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/e5-elliptical-cross-trainer"
+  },
+  {
+    "name": "Эллиптический тренажёр",
+    "groups": [
+      "Ноги",
+      "Руки"
+    ],
+    "muscles": [
+      "Мышцы ног",
+      "Ягодичные мышцы",
+      "Мышцы рук"
+    ],
+    "description": "Циклическое движение ног по эллиптической траектории; подвижные рукояти подключают руки.",
+    "recognition": "Две длинные педальные платформы и высокие рукояти.",
+    "category": "Кардио",
+    "id": "symbio-incline-elliptical",
+    "brand": "Life Fitness",
+    "model": "Symbio Incline Elliptical Home Edition",
+    "exerciseSlugs": [],
+    "image": "/equipment/symbio-incline-elliptical-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/symbio-incline-elliptical"
+  },
+  {
+    "name": "Эргометр для рук и ног",
+    "groups": [
+      "Ноги",
+      "Руки",
+      "Плечи"
+    ],
+    "muscles": [
+      "Мышцы ног",
+      "Мышцы рук",
+      "Дельтовидные мышцы"
+    ],
+    "description": "Циклическая работа руками и ногами на общей станции.",
+    "recognition": "Сиденье, нижние педали и отдельные вращающиеся рукояти для рук.",
+    "category": "Кардио",
+    "id": "pro2-total-body-exerciser",
+    "brand": "SCIFIT",
+    "model": "PRO2 Total Body Exerciser",
+    "exerciseSlugs": [],
+    "image": "/equipment/pro2-total-body-exerciser-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/pro2-total-body-exerciser"
+  },
+  {
+    "name": "Брусья / подъём ног",
+    "groups": [
+      "Грудь",
+      "Руки",
+      "Корпус"
+    ],
+    "muscles": [
+      "Грудные мышцы",
+      "Трицепс",
+      "Мышцы живота"
+    ],
+    "description": "Станция для отжиманий на брусьях и подъёма ног в упоре.",
+    "recognition": "Вертикальная рама с рукоятями, подлокотниками или перекладиной.",
+    "category": "Скамьи и стойки",
+    "id": "life-fitness-dip-leg-raise",
+    "brand": "Life Fitness",
+    "model": "Dip/Leg Raise",
+    "exerciseSlugs": [],
+    "image": "/equipment/life-fitness-dip-leg-raise-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/life-fitness-dip-leg-raise"
+  },
+  {
+    "name": "Гиперэкстензия",
+    "groups": [
+      "Спина",
+      "Ноги"
+    ],
+    "muscles": [
+      "Разгибатели позвоночника",
+      "Ягодичные мышцы",
+      "Мышцы задней поверхности бедра"
+    ],
+    "description": "Скамья для разгибаний корпуса с опорой под бёдра.",
+    "recognition": "Подушка под таз и отдельные опоры для фиксации ног.",
+    "category": "Скамьи и стойки",
+    "id": "hammer-strength-back-extension",
+    "brand": "Hammer Strength",
+    "model": "Back Extension",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-back-extension-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-back-extension"
+  },
+  {
+    "name": "Гиперэкстензия",
+    "groups": [
+      "Спина",
+      "Ноги"
+    ],
+    "muscles": [
+      "Разгибатели позвоночника",
+      "Ягодичные мышцы",
+      "Мышцы задней поверхности бедра"
+    ],
+    "description": "Скамья для разгибаний корпуса с опорой под бёдра.",
+    "recognition": "Подушка под таз и отдельные опоры для фиксации ног.",
+    "category": "Скамьи и стойки",
+    "id": "signature-series-back-extension",
+    "brand": "Life Fitness",
+    "model": "Back Extension",
+    "exerciseSlugs": [],
+    "image": "/equipment/signature-series-back-extension-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/signature-series-back-extension"
+  },
+  {
+    "name": "Глют-хэм скамья",
+    "groups": [
+      "Ноги",
+      "Спина",
+      "Корпус"
+    ],
+    "muscles": [
+      "Мышцы задней поверхности бедра",
+      "Ягодичные мышцы",
+      "Разгибатели позвоночника"
+    ],
+    "description": "Скамья для подъёмов корпуса и сгибаний ног с фиксацией стоп.",
+    "recognition": "Высокая округлая подушка под бёдра и парные валики для фиксации стоп.",
+    "category": "Скамьи и стойки",
+    "id": "hammer-strength-fixed-pad-glute-ham-bench",
+    "brand": "Hammer Strength",
+    "model": "Fixed Pad Glute/Ham",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-fixed-pad-glute-ham-bench-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-fixed-pad-glute-ham-bench"
+  },
+  {
+    "name": "Горизонтальная скамья",
+    "groups": [
+      "Грудь",
+      "Руки"
+    ],
+    "muscles": [
+      "Грудные мышцы",
+      "Трицепс"
+    ],
+    "description": "Горизонтальная опора для упражнений с гантелями или штангой. Сама скамья не создаёт сопротивления.",
+    "recognition": "Ровная мягкая поверхность на устойчивой раме.",
+    "category": "Скамьи и стойки",
+    "id": "hammer-strength-flat-bench",
+    "brand": "Hammer Strength",
+    "model": "Flat Bench",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-flat-bench-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-flat-bench"
+  },
+  {
+    "name": "Горизонтальная скамья",
+    "groups": [
+      "Грудь",
+      "Руки"
+    ],
+    "muscles": [
+      "Грудные мышцы",
+      "Трицепс"
+    ],
+    "description": "Горизонтальная опора для упражнений с гантелями или штангой. Сама скамья не создаёт сопротивления.",
+    "recognition": "Ровная мягкая поверхность на устойчивой раме.",
+    "category": "Скамьи и стойки",
+    "id": "life-fitness-flat-bench",
+    "brand": "Life Fitness",
+    "model": "Flat Bench",
+    "exerciseSlugs": [],
+    "image": "/equipment/life-fitness-flat-bench-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/life-fitness-flat-bench"
+  },
+  {
+    "name": "Горизонтальная скамья",
+    "groups": [
+      "Грудь",
+      "Руки"
+    ],
+    "muscles": [
+      "Грудные мышцы",
+      "Трицепс"
+    ],
+    "description": "Горизонтальная опора для упражнений с гантелями или штангой. Сама скамья не создаёт сопротивления.",
+    "recognition": "Ровная мягкая поверхность на устойчивой раме.",
+    "category": "Скамьи и стойки",
+    "id": "signature-series-olympic-flat-bench",
+    "brand": "Life Fitness",
+    "model": "Olympic Flat Bench",
+    "exerciseSlugs": [],
+    "image": "/equipment/signature-series-olympic-flat-bench-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/signature-series-olympic-flat-bench"
+  },
+  {
+    "name": "Наклонная скамья для жима",
+    "groups": [
+      "Грудь",
+      "Руки"
+    ],
+    "muscles": [
+      "Грудные мышцы",
+      "Передняя дельта",
+      "Трицепс"
+    ],
+    "description": "Скамья для жима свободной штанги под положительным углом.",
+    "recognition": "Наклонная спинка и встроенные стойки под штангу.",
+    "category": "Скамьи и стойки",
+    "id": "life-fitness-olympic-incline-bench",
+    "brand": "Life Fitness",
+    "model": "Olympic Incline Bench",
+    "exerciseSlugs": [],
+    "image": "/equipment/life-fitness-olympic-incline-bench-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/life-fitness-olympic-incline-bench"
+  },
+  {
+    "name": "Подъём ног в упоре",
+    "groups": [
+      "Корпус"
+    ],
+    "muscles": [
+      "Прямая мышца живота",
+      "Сгибатели бедра"
+    ],
+    "description": "Подъём ног с опорой на предплечья для мышц живота и сгибателей бедра.",
+    "recognition": "Подлокотники с рукоятями, опора для спины и подножки для входа в тренажёр.",
+    "category": "Скамьи и стойки",
+    "id": "signature-series-leg-raise",
+    "brand": "Life Fitness",
+    "model": "Leg Raise",
+    "exerciseSlugs": [],
+    "image": "/equipment/signature-series-leg-raise-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/signature-series-leg-raise"
+  },
+  {
+    "name": "Регулируемая скамья",
+    "groups": [
+      "Грудь",
+      "Плечи",
+      "Руки"
+    ],
+    "muscles": [
+      "Грудные мышцы",
+      "Дельтовидные мышцы",
+      "Мышцы рук"
+    ],
+    "description": "Скамья с изменяемым углом спинки для упражнений со свободными весами.",
+    "recognition": "Сиденье и отдельная спинка с механизмом регулировки наклона.",
+    "category": "Скамьи и стойки",
+    "id": "hammer-strength-home-multi-adjustable-bench",
+    "brand": "Hammer Strength",
+    "model": "Home Multi-Adjustable Bench",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-home-multi-adjustable-bench-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-home-multi-adjustable-bench"
+  },
+  {
+    "name": "Регулируемая скамья",
+    "groups": [
+      "Грудь",
+      "Плечи",
+      "Руки"
+    ],
+    "muscles": [
+      "Грудные мышцы",
+      "Дельтовидные мышцы",
+      "Мышцы рук"
+    ],
+    "description": "Скамья с изменяемым углом спинки для упражнений со свободными весами.",
+    "recognition": "Сиденье и отдельная спинка с механизмом регулировки наклона.",
+    "category": "Скамьи и стойки",
+    "id": "hammer-strength-multi-adjustable-bench",
+    "brand": "Hammer Strength",
+    "model": "Multi-Adjustable Bench",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-multi-adjustable-bench-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-multi-adjustable-bench"
+  },
+  {
+    "name": "Регулируемая скамья",
+    "groups": [
+      "Грудь",
+      "Плечи",
+      "Руки"
+    ],
+    "muscles": [
+      "Грудные мышцы",
+      "Дельтовидные мышцы",
+      "Мышцы рук"
+    ],
+    "description": "Скамья с изменяемым углом спинки для упражнений со свободными весами.",
+    "recognition": "Сиденье и отдельная спинка с механизмом регулировки наклона.",
+    "category": "Скамьи и стойки",
+    "id": "life-fitness-adjustable-bench",
+    "brand": "Life Fitness",
+    "model": "Adjustable Bench",
+    "exerciseSlugs": [],
+    "image": "/equipment/life-fitness-adjustable-bench-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/life-fitness-adjustable-bench"
+  },
+  {
+    "name": "Регулируемая скамья",
+    "groups": [
+      "Грудь",
+      "Плечи",
+      "Руки"
+    ],
+    "muscles": [
+      "Грудные мышцы",
+      "Дельтовидные мышцы",
+      "Мышцы рук"
+    ],
+    "description": "Скамья с изменяемым углом спинки для упражнений со свободными весами.",
+    "recognition": "Сиденье и отдельная спинка с механизмом регулировки наклона.",
+    "category": "Скамьи и стойки",
+    "id": "g7-adjustable-bench",
+    "brand": "Life Fitness",
+    "model": "G7 Adjustable Bench",
+    "exerciseSlugs": [],
+    "image": "/equipment/g7-adjustable-bench-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/g7-adjustable-bench"
+  },
+  {
+    "name": "Регулируемая скамья",
+    "groups": [
+      "Грудь",
+      "Плечи",
+      "Руки"
+    ],
+    "muscles": [
+      "Грудные мышцы",
+      "Дельтовидные мышцы",
+      "Мышцы рук"
+    ],
+    "description": "Скамья с изменяемым углом спинки для упражнений со свободными весами.",
+    "recognition": "Сиденье и отдельная спинка с механизмом регулировки наклона.",
+    "category": "Скамьи и стойки",
+    "id": "life-fitness-multi-adjustable-bench",
+    "brand": "Life Fitness",
+    "model": "Multi-Adjustable Bench",
+    "exerciseSlugs": [],
+    "image": "/equipment/life-fitness-multi-adjustable-bench-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/life-fitness-multi-adjustable-bench"
+  },
+  {
+    "name": "Силовая рама / стойка",
+    "groups": [
+      "Ноги",
+      "Грудь",
+      "Плечи",
+      "Спина"
+    ],
+    "muscles": [
+      "Мышцы ног",
+      "Мышцы спины",
+      "Грудные мышцы",
+      "Дельтовидные мышцы"
+    ],
+    "description": "Стойка для работы со свободной штангой. Оснащение и упражнения зависят от комплектации.",
+    "recognition": "Вертикальные стойки с отверстиями под крюки и страховочные опоры.",
+    "category": "Скамьи и стойки",
+    "id": "hammer-strength-hd-athletic-nx-half-rack",
+    "brand": "Hammer Strength",
+    "model": "HD Athletic NX Half Rack",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-hd-athletic-nx-half-rack-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-hd-athletic-nx-half-rack"
+  },
+  {
+    "name": "Силовая рама / стойка",
+    "groups": [
+      "Ноги",
+      "Грудь",
+      "Плечи",
+      "Спина"
+    ],
+    "muscles": [
+      "Мышцы ног",
+      "Мышцы спины",
+      "Грудные мышцы",
+      "Дельтовидные мышцы"
+    ],
+    "description": "Стойка для работы со свободной штангой. Оснащение и упражнения зависят от комплектации.",
+    "recognition": "Вертикальные стойки с отверстиями под крюки и страховочные опоры.",
+    "category": "Скамьи и стойки",
+    "id": "hammer-strength-hd-athletic-nx-power-rack",
+    "brand": "Hammer Strength",
+    "model": "HD Athletic NX Power Rack",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-hd-athletic-nx-power-rack-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-hd-athletic-nx-power-rack"
+  },
+  {
+    "name": "Силовая рама / стойка",
+    "groups": [
+      "Ноги",
+      "Грудь",
+      "Плечи",
+      "Спина"
+    ],
+    "muscles": [
+      "Мышцы ног",
+      "Мышцы спины",
+      "Грудные мышцы",
+      "Дельтовидные мышцы"
+    ],
+    "description": "Стойка для работы со свободной штангой. Оснащение и упражнения зависят от комплектации.",
+    "recognition": "Вертикальные стойки с отверстиями под крюки и страховочные опоры.",
+    "category": "Скамьи и стойки",
+    "id": "hammer-strength-hd-athletic-nx-squat-stand",
+    "brand": "Hammer Strength",
+    "model": "HD Athletic NX Squat Stand",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-hd-athletic-nx-squat-stand-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-hd-athletic-nx-squat-stand"
+  },
+  {
+    "name": "Силовая рама / стойка",
+    "groups": [
+      "Ноги",
+      "Грудь",
+      "Плечи",
+      "Спина"
+    ],
+    "muscles": [
+      "Мышцы ног",
+      "Мышцы спины",
+      "Грудные мышцы",
+      "Дельтовидные мышцы"
+    ],
+    "description": "Стойка для работы со свободной штангой. Оснащение и упражнения зависят от комплектации.",
+    "recognition": "Вертикальные стойки с отверстиями под крюки и страховочные опоры.",
+    "category": "Скамьи и стойки",
+    "id": "hammer-strength-hd-elite-id-half-rack",
+    "brand": "Hammer Strength",
+    "model": "HD Elite iD Half Rack",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-hd-elite-id-half-rack-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-hd-elite-id-half-rack"
+  },
+  {
+    "name": "Скамья для жима сидя",
+    "groups": [
+      "Плечи",
+      "Руки"
+    ],
+    "muscles": [
+      "Дельтовидные мышцы",
+      "Трицепс"
+    ],
+    "description": "Опора для упражнений сидя со свободными весами.",
+    "recognition": "Короткое сиденье и высокая, почти вертикальная спинка.",
+    "category": "Скамьи и стойки",
+    "id": "hammer-strength-utility-bench",
+    "brand": "Hammer Strength",
+    "model": "Utility Bench - 75 Degree",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-utility-bench-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-utility-bench"
+  },
+  {
+    "name": "Скамья для жима сидя",
+    "groups": [
+      "Плечи",
+      "Руки"
+    ],
+    "muscles": [
+      "Дельтовидные мышцы",
+      "Трицепс"
+    ],
+    "description": "Опора для упражнений сидя со свободными весами.",
+    "recognition": "Короткое сиденье и высокая, почти вертикальная спинка.",
+    "category": "Скамьи и стойки",
+    "id": "signature-series-utility-bench",
+    "brand": "Life Fitness",
+    "model": "Utility Bench",
+    "exerciseSlugs": [],
+    "image": "/equipment/signature-series-utility-bench-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/signature-series-utility-bench"
+  },
+  {
+    "name": "Скамья для пресса",
+    "groups": [
+      "Корпус"
+    ],
+    "muscles": [
+      "Прямая мышца живота"
+    ],
+    "description": "Скамья с подвижным рычагом для скручиваний на пресс. На штырь можно добавлять диски для увеличения сопротивления.",
+    "recognition": "Низкая скамья с рукоятями над головой и рычажным механизмом.",
+    "category": "Скамьи и стойки",
+    "id": "life-fitness-ab-crunch-bench",
+    "brand": "Life Fitness",
+    "model": "Ab Crunch Bench",
+    "exerciseSlugs": [],
+    "image": "/equipment/life-fitness-ab-crunch-bench-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/life-fitness-ab-crunch-bench"
+  },
+  {
+    "name": "Скамья для пресса",
+    "groups": [
+      "Корпус"
+    ],
+    "muscles": [
+      "Прямая мышца живота"
+    ],
+    "description": "Опора для упражнений на пресс с фиксацией ног.",
+    "recognition": "Наклонная или профилированная поверхность с валиками для ног.",
+    "category": "Скамьи и стойки",
+    "id": "life-fitness-abdominal-bench",
+    "brand": "Life Fitness",
+    "model": "Abdominal Bench",
+    "exerciseSlugs": [],
+    "image": "/equipment/life-fitness-abdominal-bench-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/life-fitness-abdominal-bench"
+  },
+  {
+    "name": "Скамья с отрицательным наклоном",
+    "groups": [
+      "Грудь",
+      "Корпус"
+    ],
+    "muscles": [
+      "Грудные мышцы",
+      "Прямая мышца живота"
+    ],
+    "description": "Скамья для упражнений с положением головы ниже таза; движение определяет работающие мышцы.",
+    "recognition": "Наклонная опора и валики для фиксации ног.",
+    "category": "Скамьи и стойки",
+    "id": "hammer-strength-adjustable-decline-bench",
+    "brand": "Hammer Strength",
+    "model": "Adjustable Decline Bench",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-adjustable-decline-bench-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-adjustable-decline-bench"
+  },
+  {
+    "name": "Скамья с отрицательным наклоном",
+    "groups": [
+      "Грудь",
+      "Корпус"
+    ],
+    "muscles": [
+      "Грудные мышцы",
+      "Прямая мышца живота"
+    ],
+    "description": "Скамья для упражнений с положением головы ниже таза; движение определяет работающие мышцы.",
+    "recognition": "Наклонная опора и валики для фиксации ног.",
+    "category": "Скамьи и стойки",
+    "id": "life-fitness-adjustable-decline-bench",
+    "brand": "Life Fitness",
+    "model": "Adjustable Decline Bench",
+    "exerciseSlugs": [],
+    "image": "/equipment/life-fitness-adjustable-decline-bench-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/life-fitness-adjustable-decline-bench"
+  },
+  {
+    "name": "Скамья Скотта",
+    "groups": [
+      "Руки"
+    ],
+    "muscles": [
+      "Бицепс",
+      "Плечевая мышца"
+    ],
+    "description": "Скамья с опорой для рук для сгибаний со свободным весом.",
+    "recognition": "Крупная наклонная подушка для плеч и упоры под гриф.",
+    "category": "Скамьи и стойки",
+    "id": "hammer-strength-seated-arm-curl",
+    "brand": "Hammer Strength",
+    "model": "Seated Arm Curl",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-seated-arm-curl-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-seated-arm-curl"
+  },
+  {
+    "name": "Скамья Скотта",
+    "groups": [
+      "Руки"
+    ],
+    "muscles": [
+      "Бицепс",
+      "Плечевая мышца"
+    ],
+    "description": "Скамья с опорой для рук для сгибаний со свободным весом.",
+    "recognition": "Крупная наклонная подушка для плеч и упоры под гриф.",
+    "category": "Скамьи и стойки",
+    "id": "life-fitness-arm-curl-bench",
+    "brand": "Life Fitness",
+    "model": "Arm Curl Bench",
+    "exerciseSlugs": [],
+    "image": "/equipment/life-fitness-arm-curl-bench-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/life-fitness-arm-curl-bench"
+  },
+  {
+    "name": "Степ-платформа / скамья",
+    "groups": [
+      "Ноги",
+      "Корпус",
+      "Грудь"
+    ],
+    "muscles": [
+      "Мышцы ног",
+      "Мышцы корпуса",
+      "Грудные мышцы"
+    ],
+    "description": "Платформа для степ-движений и упражнений с весом тела или свободными весами.",
+    "recognition": "Низкая платформа с регулируемой высотой и спинкой.",
+    "category": "Скамьи и стойки",
+    "id": "life-fitness-studio-deck",
+    "brand": "Life Fitness",
+    "model": "Studio Deck",
+    "exerciseSlugs": [],
+    "image": "/equipment/life-fitness-studio-deck-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/life-fitness-studio-deck"
+  },
+  {
+    "name": "Турник / брусья / пресс",
+    "groups": [
+      "Спина",
+      "Грудь",
+      "Руки",
+      "Корпус"
+    ],
+    "muscles": [
+      "Широчайшие",
+      "Грудные мышцы",
+      "Трицепс",
+      "Мышцы живота"
+    ],
+    "description": "Станция для упражнений с весом тела. Доступные движения зависят от наличия перекладины и брусьев.",
+    "recognition": "Вертикальная рама с рукоятями, подлокотниками или перекладиной.",
+    "category": "Скамьи и стойки",
+    "id": "hammer-strength-chin-dip-leg-raise",
+    "brand": "Hammer Strength",
+    "model": "Chin/Dip/Leg Raise",
+    "exerciseSlugs": [],
+    "image": "/equipment/hammer-strength-chin-dip-leg-raise-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/hammer-strength-chin-dip-leg-raise"
+  },
+  {
+    "name": "Турник / брусья / пресс",
+    "groups": [
+      "Спина",
+      "Грудь",
+      "Руки",
+      "Корпус"
+    ],
+    "muscles": [
+      "Широчайшие",
+      "Грудные мышцы",
+      "Трицепс",
+      "Мышцы живота"
+    ],
+    "description": "Станция для упражнений с весом тела. Доступные движения зависят от наличия перекладины и брусьев.",
+    "recognition": "Вертикальная рама с рукоятями, подлокотниками или перекладиной.",
+    "category": "Скамьи и стойки",
+    "id": "life-fitness-chin-dip-leg-raise",
+    "brand": "Life Fitness",
+    "model": "Chin/Dip/Leg Raise",
+    "exerciseSlugs": [],
+    "image": "/equipment/life-fitness-chin-dip-leg-raise-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/life-fitness-chin-dip-leg-raise"
+  },
+  {
+    "name": "Станция для растяжки",
+    "groups": [
+      "Ноги",
+      "Спина",
+      "Плечи"
+    ],
+    "muscles": [
+      "Мышцы ног",
+      "Мышцы спины",
+      "Плечевой пояс"
+    ],
+    "description": "Опоры помогают принять положения для растяжки разных групп мышц.",
+    "recognition": "Компактная рама с сиденьем, рукоятями и схемой положений тела.",
+    "category": "Растяжка",
+    "id": "life-fitness-flexibility-trainer-outlet-copy",
+    "brand": "Life Fitness",
+    "model": "Flexibility Trainer",
+    "exerciseSlugs": [],
+    "image": "/equipment/life-fitness-flexibility-trainer-outlet-copy-v1.webp",
+    "sourceUrl": "https://shop.lifefitness.com/products/life-fitness-flexibility-trainer-outlet-copy"
+  }
+]
